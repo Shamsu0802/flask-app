@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Itinerary</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+    <style>
+              
+              .logo-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.logo-container img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
+        #background-video {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+        }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #fdf6f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h2 {
+            color: #e91e63;
+            font-size: 2em;
+            text-align: center;
+        }
+
+        .itinerary-container {
+            width: 100%;
+            max-width: 900px;
+            overflow: hidden;
+            background-color: rgba(255, 255, 255, 0);
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.7);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+            opacity: 0;
+        }
+
+        .card.show {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        .card h3 {
+            margin-top: 0;
+            color: #d81b60;
+            font-size: 1.8em;
+        }
+
+        .card p {
+            margin: 6px 0;
+            font-size: 1.2em;
+        }
+
+        .card strong {
+            color: #e91e63;
+        }
+
+        .map-container {
+            width: 100%;
+            height: 300px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        .buttons {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .buttons button,
+        .buttons a {
+            padding: 12px 25px;
+            background-color: #d81b60;
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+            margin: 10px;
+            font-size: 1.1em;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        .buttons button:hover,
+        .buttons a:hover {
+            background-color: #e91e63;
+            transform: scale(1.05);
+        }
+
+        .directions-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        #directions-form {
+            display: none;
+            margin-top: 10px;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            margin: 8px;
+            width: 250px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            font-size: 1.1em;
+        }
+
+        #directions-form button {
+            padding: 12px 20px;
+            background-color: #d81b60;
+            color: white;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: background-color 0.3s ease;
+        }
+
+        #directions-form button:hover {
+            background-color: #e91e63;
+        }
+
+        #directions-map {
+            height: 500px;
+            width: 100%;
+            margin-top: 20px;
+            border-radius: 10px;
+            display: none;
+        }
+
+        .transport-options button {
+            margin: 5px;
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 15px;
+            font-size: 1em;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .transport-options button:hover {
+            background-color: #45a049;
+        }
+
+        .loading-spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #e91e63;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            animation: spin 1s linear infinite;
+            display: inline-block;
+            vertical-align: middle;
+           
+         margin-left: 5px;
+        }
+
+        .back-home {
+    position: fixed;
+    bottom: 20px;  /* Changed from top to bottom */
+    right: 20px;
+    background-color: #d81b60;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 12px;
+    font-size: 1em;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+<video autoplay muted loop id="background-video">
+    <source src="{{ url_for('static', filename='videos/intro.mp4') }}" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<div class="logo-container">
+    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" class="logo">
+  </div>
+  
+
+<h2>{{ message }}</h2>
+
+<div class="itinerary-container">
+    {% if places %}
+        <div id="card-container"></div>
+    {% else %}
+        <p>No itinerary found for your preferences. Try again with different criteria.</p>
+    {% endif %}
+</div>
+
+<div class="directions-container">
+    <button onclick="showDirectionsForm()">➡️ Get Directions</button>
+    <div id="directions-form">
+        <input type="text" id="from-location" placeholder="From (Place Name)" />
+        <input type="text" id="to-location" placeholder="To (Place Name)" />
+       
+        <button onclick="getRoute()">Show Route</button>
+    </div>
+</div>
+
+<div id="directions-map"></div>
+
+<div class="buttons">
+    <button onclick="showNextCard()">➡️ Next Itinerary</button>
+    <a href="/questions">🔄 Plan Another Outing</a>
+</div>
+<button class="back-home" onclick="window.location.href='/'">Back to Home</button>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<!-- Inside your <script> tag (at the bottom of the HTML file) -->
+    <script>
+        const places = {{ places|tojson }};
+let currentIndex = 0;
+let leafletMap = null;
+let directionsMap = null;
+let routeLayer = null;
+let transportMode = 'driving-car';
+let userCoords = null;
+
+navigator.geolocation.getCurrentPosition(
+    position => userCoords = [position.coords.latitude, position.coords.longitude],
+    () => console.warn("Geolocation denied. Travel time won't be shown.")
+);
+
+function showNextCard() {
+    const container = document.getElementById('card-container');
+    container.innerHTML = "";
+
+    if (places.length === 0) {
+        container.innerHTML = "<p>No itineraries available.</p>";
+        return;
+    }
+
+    const place = places[currentIndex];
+    const isLiked = isPlaceFavorited(place);
+
+    const card = document.createElement('div');
+    card.className = "card";
+
+    const heartIcon = isLiked ? '❤️' : '🤍';
+
+    let html = `
+        <h3 style="display:flex; justify-content:space-between; align-items:center;">
+            <span>${place.name || 'Unnamed Place'}</span>
+            <button onclick="toggleFavorite(${currentIndex}, this)"
+                    title="Toggle Favorite"
+                    style="background:none; border:none; font-size:1.5em; cursor:pointer;">
+                ${heartIcon}
+            </button>
+        </h3>
+    `;
+
+    if (place["image url"]) {
+        html += `<img src="${place["image url"]}" alt="Image of ${place.name}" style="width:100%; border-radius: 8px; margin-bottom: 10px;">`;
+    }
+
+    html += `
+        <p><strong>Location:</strong> ${place.location || 'N/A'}</p>
+        <p><strong>Budget:</strong> ${place.budget || 'N/A'}</p>
+        <p><strong>Time Required:</strong> ${place.time || 'Not specified'}</p>
+        <p><strong>Mood:</strong> ${place.mood || 'Not specified'}</p>
+        <p><strong>Best for:</strong> ${place.companion || 'N/A'}</p>
+        <div id="map-container" class="map-container"></div>
+        <p><strong>Estimated Travel Time:</strong> ~<span id="travel-time">Loading... <span class="loading-spinner"></span></span> mins from your location</p>
+    `;
+
+    card.innerHTML = html;
+    container.appendChild(card);
+
+    setTimeout(() => {
+        if (leafletMap) leafletMap.remove();
+        leafletMap = L.map('map-container').setView([place.latitude, place.longitude], 14);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19 }).addTo(leafletMap);
+        L.marker([place.latitude, place.longitude]).addTo(leafletMap).bindPopup(`<b>${place.name}</b>`).openPopup();
+        card.classList.add('show');
+    }, 100);
+
+    if (userCoords) {
+        getTravelTime(userCoords, [place.latitude, place.longitude], function (minutes) {
+            document.getElementById('travel-time').innerText = minutes !== "N/A" ? `${minutes} min` : "Could not calculate";
+        });
+    } else {
+        document.getElementById('travel-time').innerText = "Enable location to see travel time";
+    }
+
+    // Automatically fill the "To" input field with the place's name
+    document.getElementById('to-location').value = place.name || 'Unnamed Place';
+
+    currentIndex = (currentIndex + 1) % places.length;
+}
+
+function toggleFavorite(index, buttonElement) {
+    const place = places[index];
+    let favorites = JSON.parse(localStorage.getItem("favorites")) || [];
+
+    const existingIndex = favorites.findIndex(fav => fav.name === place.name);
+
+    if (existingIndex !== -1) {
+        favorites.splice(existingIndex, 1);
+        buttonElement.textContent = '🤍';
+    } else {
+        favorites.push(place);
+        buttonElement.textContent = '❤️';
+    }
+
+    localStorage.setItem("favorites", JSON.stringify(favorites));
+}
+
+function isPlaceFavorited(place) {
+    const favorites = JSON.parse(localStorage.getItem("favorites")) || [];
+    return favorites.some(fav => fav.name === place.name);
+}
+
+function getTravelTime(from, to, callback) {
+    const apiKey = '5b3ce3597851110001cf6248160b5b9512cd4cc29a31733989ec8845';
+    const url = `https://api.openrouteservice.org/v2/directions/driving-car?api_key=${apiKey}&start=${from[1]},${from[0]}&end=${to[1]},${to[0]}`;
+
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            if (data.features && data.features.length > 0) {
+                const seconds = data.features[0].properties.summary.duration;
+                callback(Math.round(seconds / 60));
+            } else {
+                callback("N/A");
+            }
+        })
+        .catch(error => {
+            console.error("Travel time error:", error);
+            callback("N/A");
+        });
+}
+
+function setTransportMode(mode) {
+    transportMode = mode;
+}
+
+function showDirectionsForm() {
+    document.getElementById('directions-form').style.display = 'block';
+    document.getElementById('directions-map').style.display = 'block';
+    initDirectionsMap();
+}
+
+function initDirectionsMap() {
+    if (!directionsMap) {
+        directionsMap = L.map('directions-map').setView([13.0827, 80.2707], 12);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(directionsMap);
+    }
+}
+
+function getRoute() {
+    const fromLocation = document.getElementById('from-location').value;
+    const toLocation = document.getElementById('to-location').value;
+
+    if (!fromLocation || !toLocation) {
+        alert('Please enter both locations.');
+        return;
+    }
+
+    const fromPlace = places[0];
+    const toPlace = places[1] || places[0];
+
+    const from = [fromPlace.latitude, fromPlace.longitude];
+    const to = [toPlace.latitude, toPlace.longitude];
+
+    const apiKey = '5b3ce3597851110001cf6248160b5b9512cd4cc29a31733989ec8845';
+    const url = `https://api.openrouteservice.org/v2/directions/${transportMode}?api_key=${apiKey}&start=${from[1]},${from[0]}&end=${to[1]},${to[0]}`;
+
+    const routeButton = document.querySelector('#directions-form button:last-child');
+    const originalText = routeButton.textContent;
+    routeButton.innerHTML = 'Calculating... <span class="loading-spinner"></span>';
+
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            routeButton.textContent = originalText;
+
+            if (routeLayer) directionsMap.removeLayer(routeLayer);
+
+            if (data.features && data.features.length > 0) {
+                const routeGeoJSON = {
+                    "type": "FeatureCollection",
+                    "features": [{
+                        "type": "Feature",
+                        "properties": {},
+                        "geometry": {
+                            "type": "LineString",
+                            "coordinates": data.features[0].geometry.coordinates
+                        }
+                    }]
+                };
+
+                routeLayer = L.geoJSON(routeGeoJSON, {
+                    style: { color: '#e91e63', weight: 5 }
+                }).addTo(directionsMap);
+
+                L.marker([from[0], from[1]]).addTo(directionsMap).bindPopup(`<b>Start: ${fromLocation}</b>`).openPopup();
+                L.marker([to[0], to[1]]).addTo(directionsMap).bindPopup(`<b>Destination: ${toLocation}</b>`);
+
+                directionsMap.fitBounds(routeLayer.getBounds());
+            } else {
+                alert('No route found.');
+            }
+        })
+        .catch(error => {
+            console.error("Directions error:", error);
+            routeButton.textContent = originalText;
+            alert('Error retrieving directions.');
+        });
+}
+
+// Load first card
+showNextCard();
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,1600 @@
+name,category,latitude,longitude,mood,budget,companion,area,time,description
+George Town,heritage,13.0920917,80.2822426,misc,mid,solo,Nungambakkam,one hour,
+The Great Kabab Factory,restaurant,12.9946821,80.1874068,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Tangerine,restaurant,13.0392554,80.2556216,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Ente Keralam,restaurant,13.0421141,80.2558968,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Suriyas,restaurant,13.0383186,80.2566708,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Reliance Fresh,supermarket,13.0390386,80.2508349,errands,low,family,T. Nagar,one hour,
+Ananda,restaurant,13.0391641,80.247219,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Midnight Express,restaurant,13.0409358,80.2586973,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Lily Pond Shopping Complex,mall,13.0833302,80.272561,shop,high,friends,Nungambakkam,half a day,
+Annai Maniammai Statue,monument,13.0800561,80.2628411,misc,mid,solo,Nungambakkam,one hour,
+High Time,pub,13.0398535,80.2449822,fun,mid,friends,T. Nagar,half a day,
+Vetrivel Cinemas,cinema,12.9799224,80.1822996,entertainment,mid,friends,Adyar,half a day,
+Ambedkar Memorial,attraction,13.0193208,80.266984,touristy,low,family,Adyar,full day,
+Triumph of Labour,monument,13.0641119,80.2837484,misc,mid,solo,Nungambakkam,one hour,
+Gandhi,memorial,13.0433301,80.2800154,misc,mid,solo,T. Nagar,one hour,
+Rajaji Memorial,attraction,13.0064804,80.2391664,touristy,low,family,Adyar,full day,
+Bakthavachalam Memorial,attraction,13.0067142,80.2362341,touristy,low,family,Adyar,full day,
+Kamaraj Memorial,attraction,13.006922,80.2355846,touristy,low,family,Adyar,full day,
+Ganapathy Ram,cinema,13.0038872,80.2563577,entertainment,mid,friends,Adyar,half a day,
+Saravana Bhavan,fast_food,13.0345162,80.2690082,casual,low,solo,T. Nagar,one hour,
+S2 Theyagaraja,cinema,12.9895127,80.2563784,entertainment,mid,friends,Adyar,half a day,
+Ashok Pillar,monument,13.0348481,80.2121781,misc,mid,solo,T. Nagar,one hour,
+Melody,cinema,13.0593418,80.2657932,entertainment,mid,friends,Nungambakkam,half a day,
+Nilgiri's,supermarket,13.005869,80.2518431,errands,low,family,Adyar,one hour,
+Pizza Hut,restaurant,13.0055904,80.251822,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Cafe Coffee Day,cafe,12.9998739,80.2518509,chill,mid,solo,Adyar,two hours,
+Planet Yumm,fast_food,12.9969184,80.2713903,casual,low,solo,Besant Nagar,one hour,
+Alandur,park,12.9943729,80.1942837,relax,free,solo,T. Nagar,half a day,
+Basera,restaurant,12.9329807,80.2517763,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Quark,restaurant,12.9854583,80.2364174,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Ladies Mess,restaurant,12.9875968,80.2422869,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Maami's Mess,restaurant,13.0324107,80.2704268,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Mayilai Sri Karpagambal Mess,restaurant,13.0327388,80.2712197,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Sangeetha,restaurant,13.0323689,80.2676459,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Vasantha Bhavan,restaurant,13.0322517,80.2685043,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0340003,80.2677522,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Rayer Mess,restaurant,13.0355223,80.273014,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Bike & Barrels,pub,13.0402957,80.243777,fun,mid,friends,T. Nagar,half a day,
+Spencers,supermarket,12.9960126,80.2678,errands,low,family,Adyar,one hour,
+Snake Park,attraction,13.0032701,80.2384929,touristy,low,family,Adyar,full day,
+Benjarong,restaurant,13.0313113,80.2513502,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Okadeys,restaurant,13.0384527,80.2567668,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Amaravati,restaurant,13.0451417,80.2592552,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Kalpaka,restaurant,13.0468725,80.2605083,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Madras Cafe,restaurant,13.0008164,80.2043612,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,12.9968115,80.2582413,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Little Italy,restaurant,13.0609985,80.2475712,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Pizza Hut,restaurant,13.065426,80.2432841,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Mainland China,restaurant,13.0659169,80.2421706,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Novelty,restaurant,13.0889622,80.2790177,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Annapurna,restaurant,13.0747305,80.2626235,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Barbecue Nation,restaurant,13.0454388,80.2331563,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+SSR Pankajam Theater,cinema,13.0516753,80.2044022,entertainment,mid,friends,Nungambakkam,half a day,
+Zaras,pub,13.0456864,80.258853,fun,mid,friends,T. Nagar,half a day,
+Sparkys Diner,restaurant,13.0729298,80.2526113,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Haldiram's,fast_food,13.0453726,80.2669904,casual,low,solo,T. Nagar,one hour,
+Maharaja,restaurant,13.0633479,80.2739101,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+"Don Pepe, Copper Chimney",restaurant,13.0458581,80.258173,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Paneer soda shop,restaurant,13.0322882,80.2709135,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Corner Juice Shop,restaurant,13.0333788,80.2569388,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Subway,fast_food,13.0614085,80.2487161,casual,low,solo,Nungambakkam,one hour,
+Wangs Kitchen,restaurant,13.0610272,80.2481523,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Casa Picola,restaurant,13.0607599,80.2512477,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Barista,cafe,13.0607136,80.2509829,chill,mid,solo,Nungambakkam,two hours,
+Domino's,fast_food,13.0354864,80.2496631,casual,low,solo,T. Nagar,one hour,
+US Pizza,restaurant,13.0368042,80.2553943,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+The Wanton,restaurant,13.0308675,80.2547014,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Kasi Theatre,cinema,13.0294559,80.2084956,entertainment,mid,friends,T. Nagar,half a day,
+Bombay Halwa House,restaurant,13.0383754,80.2674307,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Mathsya,restaurant,13.0750359,80.2581673,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Marrybrown,fast_food,13.0717985,80.2029951,casual,low,solo,Nungambakkam,one hour,
+Hotel Sangeetha,restaurant,13.0717149,80.2030895,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0718906,80.2028921,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+GK Moopanar Memorial,memorial,13.0491047,80.2474892,misc,mid,solo,Nungambakkam,one hour,
+Kamaraj Memorial House,museum,13.0474637,80.2395455,cultural,low,solo,Nungambakkam,two hours,
+Ajnabee Snacks,restaurant,13.0677438,80.2566293,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Alsa Mall Shopping Complex,mall,13.0686635,80.2572129,shop,high,friends,Nungambakkam,half a day,
+Asli Punjabi Rasoi Ghar,restaurant,13.0650516,80.2589124,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Bombay Halwa House,restaurant,13.0688689,80.2717553,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Cafe Coffee Day,cafe,13.0823329,80.2181614,chill,mid,solo,Nungambakkam,two hours,
+Noodle House,restaurant,13.0654928,80.2431296,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Subway,fast_food,13.0266378,80.2326761,casual,low,solo,T. Nagar,one hour,
+More,supermarket,13.0221142,80.259468,errands,low,family,T. Nagar,one hour,
+Lemongrass,restaurant,13.0287554,80.253254,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Grains of Paradise,restaurant,13.0276871,80.2526956,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Anokhi,cafe,13.0285657,80.2503649,chill,mid,solo,T. Nagar,two hours,
+Cream Centre,restaurant,13.026914,80.2556765,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Amma Naana,supermarket,13.0287447,80.2495317,errands,low,family,T. Nagar,one hour,
+Cappucino,restaurant,13.0294364,80.2497843,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Westminister,pub,13.0295981,80.2496967,fun,mid,friends,T. Nagar,half a day,
+In Seoul,restaurant,13.0321755,80.2521158,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Nilgiris,supermarket,13.031996,80.2566384,errands,low,family,T. Nagar,one hour,
+Spencers Daily,supermarket,13.0328095,80.2570496,errands,low,family,T. Nagar,one hour,
+The Crown,restaurant,13.0403208,80.2437255,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Rhapsody,pub,13.0460179,80.2479281,fun,mid,friends,Nungambakkam,half a day,
+Paprika,restaurant,13.0460421,80.2476349,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Aqua,restaurant,13.0529661,80.2500813,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Lotus,restaurant,13.0528789,80.2498533,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Leather Bar,pub,13.0528394,80.2497445,fun,mid,friends,Nungambakkam,half a day,
+Chipstead,bar,13.0584407,80.2476996,party,high,friends,Nungambakkam,one hour,
+Hip Asia,restaurant,13.0630743,80.2612723,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Akasaka,restaurant,12.9881641,80.2556827,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Bombay Halwa House,restaurant,13.0851955,80.2449931,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Thaali Corner,restaurant,13.0851761,80.2447589,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Cornucopia,restaurant,13.0307571,80.2457033,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Dhaba Express,restaurant,13.0312456,80.2460431,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Coffee Central,cafe,13.0470673,80.2455216,chill,mid,solo,Nungambakkam,two hours,
+Saravana Bhavan,fast_food,13.044333,80.2644982,casual,low,solo,T. Nagar,one hour,
+Waitrose,supermarket,13.0443358,80.2637655,errands,low,family,T. Nagar,one hour,
+Parvathi Bhavan,restaurant,13.0387921,80.2570003,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Anna Nagar Arch,memorial,13.0751519,80.2179687,misc,mid,solo,Nungambakkam,one hour,
+Nandanam Arch,memorial,13.0299336,80.2421897,misc,mid,solo,T. Nagar,one hour,
+The Dome,bar,13.0065655,80.2055843,party,high,friends,T. Nagar,one hour,
+Cilantro,restaurant,13.0064035,80.2057624,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Navratna,restaurant,13.0062581,80.2057624,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Kayal,restaurant,13.0061052,80.2057662,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+The Lobby Lounge,cafe,13.0064818,80.2053411,chill,mid,solo,T. Nagar,two hours,Explore this exciting spot!
+Makkhan Sweets,restaurant,13.0311615,80.2459839,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Brodie Castle,attraction,13.0158394,80.2628474,touristy,low,family,Adyar,full day,
+Birla Planetarium,planetarium,13.0119591,80.2440161,misc,mid,solo,Adyar,one hour,
+Food Village,restaurant,12.9278334,80.2521808,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Kamadhenu,cinema,13.0378036,80.2665431,entertainment,mid,friends,T. Nagar,half a day,
+Qwikys,cafe,12.9857701,80.2458097,chill,mid,solo,Adyar,two hours,
+Pizza Hut,restaurant,12.9856448,80.2459383,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Pupil,fast_food,13.0010132,80.2709043,casual,low,solo,Besant Nagar,one hour,
+By The Bay,restaurant,13.0012892,80.2712305,romantic,mid,date,Besant Nagar,two hours,Explore this exciting spot!
+Cozee,fast_food,13.0010049,80.2708185,casual,low,solo,Besant Nagar,one hour,
+Tasty Jones,restaurant,13.0010216,80.2706983,romantic,mid,date,Besant Nagar,two hours,Explore this exciting spot!
+Dhaba Express,restaurant,13.0007325,80.2704376,romantic,mid,date,Besant Nagar,two hours,Explore this exciting spot!
+Hotel Balaji,restaurant,13.00057,80.2662523,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Eden,restaurant,12.9970909,80.2679346,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Besant Fast Food,fast_food,13.0005366,80.2667244,casual,low,solo,Adyar,one hour,
+Cafe Coffee Day,cafe,13.0008239,80.2696481,chill,mid,solo,Besant Nagar,two hours,
+TASMAC,pub,12.9641291,80.2121529,fun,mid,friends,Adyar,half a day,
+LG showroom,supermarket,13.0520052,80.2041201,errands,low,family,Nungambakkam,one hour,
+Singapore Fancy Stores,convenience,13.0541688,80.2040134,errands,low,family,Nungambakkam,one hour,
+AVM Rajeswari Theatre,cinema,13.04749,80.2043888,entertainment,mid,friends,Nungambakkam,half a day,
+Vivek & Co,convenience,13.0506067,80.2133316,errands,low,family,Nungambakkam,one hour,
+Surya Arcade,convenience,13.0476071,80.1960547,errands,low,family,Nungambakkam,one hour,
+Vasantha Bhavan Nama veedu,restaurant,13.0492377,80.207616,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Fruit Shop on Greams Road,fast_food,13.060307,80.2546115,casual,low,solo,Nungambakkam,one hour,
+Hajiali Juice Centre,fast_food,13.0603857,80.254815,casual,low,solo,Nungambakkam,one hour,
+Sea Shell,fast_food,13.0574642,80.2551093,casual,low,solo,Nungambakkam,one hour,
+Fresh @ Aminjikarai,supermarket,13.070585,80.219622,errands,low,family,Nungambakkam,one hour,
+Esthell Continental Hotels,bar,13.0072346,80.2594099,party,high,friends,Adyar,one hour,
+Hotel Runs,restaurant,13.00636,80.2548775,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+TOPSEE,restaurant,12.9986633,80.2563991,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Aavin,cafe,13.0671848,80.2057726,chill,mid,solo,Nungambakkam,two hours,
+Dosa Cafe,fast_food,13.0671013,80.2050495,casual,low,solo,Nungambakkam,one hour,
+Hot Chips,fast_food,13.0670804,80.2062941,casual,low,solo,Nungambakkam,one hour,Explore this exciting spot!
+Vasantha Bhavan,restaurant,13.0005001,80.2560996,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Hotchips,restaurant,13.00651,80.2442513,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sri Krishna Sweets,restaurant,13.049367,80.2099012,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Saravana Bhavan,fast_food,13.0352358,80.2125834,casual,low,solo,T. Nagar,one hour,
+Kamala Cinemas,cinema,13.0489289,80.2101557,entertainment,mid,friends,Nungambakkam,half a day,
+Nilgiris Supermarket,supermarket,13.057596,80.1941907,errands,low,family,Nungambakkam,one hour,
+Reliance Fresh,supermarket,13.0596967,80.1952529,errands,low,family,Nungambakkam,one hour,
+Natesan Park,park,13.0578678,80.1921416,relax,free,solo,Nungambakkam,half a day,
+Pizza Hut,restaurant,13.0475791,80.1963823,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sri Parvathy Bhavan,restaurant,13.052763,80.192033,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Crown Talkies,cinema,13.1047263,80.2795897,entertainment,mid,friends,Nungambakkam,half a day,
+Balaj,cinema,13.0928705,80.2517604,entertainment,mid,friends,Nungambakkam,half a day,
+Reliance Fresh,supermarket,13.0731363,80.2103428,errands,low,family,Nungambakkam,one hour,
+Spencer's,supermarket,13.0768878,80.2108686,errands,low,family,Nungambakkam,one hour,
+Milk Booth,convenience,13.0713909,80.2081295,errands,low,family,Nungambakkam,one hour,
+Gopikrishna,cinema,13.0950638,80.2273822,entertainment,mid,friends,Nungambakkam,half a day,
+Cafe Caffee Day,cafe,13.0688594,80.2572278,chill,mid,solo,Nungambakkam,two hours,
+Subway,fast_food,12.9269376,80.2515763,casual,low,solo,Adyar,one hour,
+Dosa the Restaurant,restaurant,12.9863717,80.2607741,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sri Annalaxmi Sweets and Snacks,fast_food,12.986194,80.2619161,casual,low,solo,Adyar,one hour,
+Sangeeta,restaurant,13.0070874,80.2500834,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Latta Supermarket,supermarket,12.9823833,80.2225074,errands,low,family,Adyar,one hour,
+Saravanaa Bhavan,fast_food,13.0940164,80.2926773,casual,low,solo,Nungambakkam,one hour,
+Hot Chips,restaurant,12.9880438,80.2560376,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Hotel Raj Bhavan,restaurant,13.0558502,80.248,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sandys,cafe,13.0610992,80.2482881,chill,mid,solo,Nungambakkam,two hours,
+K-Store,supermarket,13.0398647,80.2516758,errands,low,family,T. Nagar,one hour,
+MADRAS KALI BARI,place_of_worship,13.0445389,80.221183,misc,mid,solo,Nungambakkam,one hour,
+Grace Supermarket,supermarket,13.0629161,80.2136124,errands,low,family,Nungambakkam,one hour,
+PVR Cinemas,cinema,13.0736242,80.221695,entertainment,mid,friends,Nungambakkam,half a day,
+KFC,fast_food,13.0738558,80.2216203,casual,low,solo,Nungambakkam,one hour,
+McDonald's,fast_food,13.0738688,80.2214298,casual,low,solo,Nungambakkam,one hour,
+Star Bazaar,supermarket,13.0734564,80.2213633,errands,low,family,Nungambakkam,one hour,
+Dhaba,restaurant,13.0813079,80.2742022,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Domino's,fast_food,13.0344347,80.2134924,casual,low,solo,T. Nagar,one hour,
+Sangamam Chettinad Hotel,restaurant,13.0349987,80.2163485,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Pazhamuthir,supermarket,13.0354172,80.2160673,errands,low,family,T. Nagar,one hour,
+Anajappar,restaurant,13.0328373,80.212066,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Shankara Bhavan,restaurant,13.051775,80.2430546,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Domino's,fast_food,13.026704,80.2641228,casual,low,solo,T. Nagar,one hour,
+Spencer's Daily,supermarket,13.0267144,80.2614084,errands,low,family,T. Nagar,one hour,
+McDonald's,fast_food,13.042947,80.2741274,casual,low,solo,T. Nagar,one hour,
+Delhi Hotel,restaurant,13.0880874,80.2757144,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Karaikudi,restaurant,13.0448865,80.2644988,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Twilight Takeout,restaurant,13.0544491,80.2392199,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sagar Restaurant,restaurant,13.0083726,80.2106059,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+krishna bhavan,fast_food,13.0293344,80.2306558,casual,low,solo,T. Nagar,one hour,
+shanmukas,restaurant,13.0277769,80.2308167,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Cream Centre,restaurant,13.0671869,80.2460438,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Al Reef Restaurant,restaurant,12.9712514,80.2583585,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Kumarakom,restaurant,12.9721108,80.2190709,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Top City,restaurant,12.8710593,80.2266785,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Nilgiris Supermarket,supermarket,12.9291074,80.2029956,errands,low,family,Adyar,one hour,
+Buvan Provisions Store,convenience,13.031548,80.2042319,errands,low,family,T. Nagar,one hour,
+Hertiage Fresh Supermarket,supermarket,13.0206071,80.2430807,errands,low,family,T. Nagar,one hour,
+Spencers Super Market,supermarket,13.0501632,80.2040587,errands,low,family,Nungambakkam,one hour,
+Adyar Ananda Bhavan,restaurant,13.0483451,80.2061063,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Hotel Mathus,restaurant,12.9739862,80.2581256,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+J.K. Stores,supermarket,12.9737686,80.2580999,errands,low,family,Adyar,one hour,
+Sri Murugan Stores,supermarket,12.9735902,80.2580826,errands,low,family,Adyar,one hour,
+Bella Ciao,restaurant,12.9721533,80.2648774,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Chandra Metro Mall,supermarket,13.0468582,80.1903845,errands,low,family,Nungambakkam,one hour,
+Inox National,cinema,13.0470205,80.1903844,entertainment,mid,friends,Nungambakkam,half a day,
+Jeevan,supermarket,13.0342232,80.2174636,errands,low,family,T. Nagar,one hour,
+Supriya Andra Mess,restaurant,12.9821542,80.2326981,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Punjabi Restaurant,restaurant,12.9822545,80.2327044,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Hot Kitchen,restaurant,12.9086606,80.249748,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Kipling Cafe,cafe,12.8954312,80.2523229,chill,mid,solo,Adyar,two hours,
+Cee Dee Yes supermarket,supermarket,12.9952269,80.2522381,errands,low,family,Adyar,one hour,
+Ponnusamy Hotel,restaurant,13.0131553,80.2227101,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Mummy Daddy,convenience,13.0835386,80.2399315,errands,low,family,Nungambakkam,one hour,
+Domino's,fast_food,12.9812466,80.229595,casual,low,solo,Adyar,one hour,
+Shopper's Paradise,supermarket,12.9810009,80.229992,errands,low,family,Adyar,one hour,
+Sip and Munch,fast_food,12.9810036,80.2298659,casual,low,solo,Adyar,one hour,
+HUT,cafe,13.0133683,80.23485,chill,mid,solo,T. Nagar,two hours,
+Ebony Furniture Shop,convenience,12.931309,80.20327,errands,low,family,Adyar,one hour,
+Asli Punjabi Rasoi Ghar,restaurant,13.038511,80.2551167,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+FunkJazz,fast_food,13.0014275,80.2713271,casual,low,solo,Besant Nagar,one hour,
+Cascade,restaurant,12.9961478,80.2681092,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Hotel Meenakshi Bhavan,restaurant,13.0296649,80.276637,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Curries and Chutneys,restaurant,13.0651778,80.2589417,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ratna Cafe,restaurant,12.9805893,80.2179786,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Flamingo,restaurant,12.9841726,80.2182307,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Mast Kalandar,restaurant,12.9847606,80.2177291,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Nuts 'n Spices,convenience,12.9822463,80.2178096,errands,low,family,Adyar,one hour,
+Udhayam Fresh Vegetables,convenience,12.9791977,80.2186494,errands,low,family,Adyar,one hour,
+McDonald's,fast_food,12.9723892,80.2198627,casual,low,solo,Adyar,one hour,
+Sri Venkatashwara Supermarket,supermarket,12.9719184,80.219018,errands,low,family,Adyar,one hour,
+Government Park,park,12.9706821,80.2149946,relax,free,solo,Adyar,half a day,
+KFC,fast_food,12.9726215,80.2192111,casual,low,solo,Adyar,one hour,
+Murugan Supermarket,supermarket,13.0769447,80.2071871,errands,low,family,Nungambakkam,one hour,
+Singapore Shoppee,supermarket,12.9614559,80.2563781,errands,low,family,Adyar,one hour,
+Amethyst,restaurant,13.057334,80.259754,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Heritage Fresh,convenience,13.0440675,80.2598232,errands,low,family,T. Nagar,one hour,
+Lingam Stores,supermarket,12.9463123,80.196992,errands,low,family,Adyar,one hour,
+Ambika Supermarket,supermarket,12.9387074,80.1789482,errands,low,family,Adyar,one hour,
+Farida's,convenience,13.0330669,80.2620463,errands,low,family,T. Nagar,one hour,
+Anbu Foods,fast_food,12.9775803,80.2618165,casual,low,solo,Adyar,one hour,
+Sri Devi Stores,convenience,12.9795964,80.1882311,errands,low,family,Adyar,one hour,
+Allwin Shoppee,convenience,12.9797375,80.1882525,errands,low,family,Adyar,one hour,
+Chidambaram Stores,convenience,12.9831007,80.1883346,errands,low,family,Adyar,one hour,
+Texas Fiesta,restaurant,13.06004,80.253221,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Nilgiri's,supermarket,13.059543,80.2467629,errands,low,family,Nungambakkam,one hour,
+Stop and Shop,supermarket,13.0676158,80.2050056,errands,low,family,Nungambakkam,one hour,
+ExpressMart 24/5,convenience,13.0221546,80.1742193,errands,low,family,T. Nagar,one hour,
+Thiruvalluvar Statue,memorial,13.0090832,80.2341705,misc,mid,solo,T. Nagar,one hour,
+Barista,cafe,12.9991916,80.2706668,chill,mid,solo,Besant Nagar,two hours,
+Annachi SuperMarket,supermarket,12.9730064,80.2200478,errands,low,family,Adyar,one hour,
+Ganga Sweets,restaurant,12.975984,80.2216517,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Maruthi Bhavan,restaurant,12.9761386,80.221856,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Ooty Vegetables,convenience,12.9729662,80.2200413,errands,low,family,Adyar,one hour,
+Freeze Zone,restaurant,13.0428655,80.259599,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Gangotree,restaurant,13.0471789,80.2546452,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Toscana,restaurant,13.0290737,80.2483233,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Parfait3,restaurant,12.979042,80.2267092,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Mash,restaurant,13.061691,80.248271,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Coming Soon Dec 2012 - Nuts N Spices ,convenience,13.022139,80.1741571,errands,low,family,T. Nagar,one hour,
+Subway,fast_food,13.0218776,80.173846,casual,low,solo,T. Nagar,one hour,
+Hot Chips,restaurant,12.9796065,80.2276904,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Banana Leaf,restaurant,13.0408188,80.2380816,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0409184,80.2376269,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Sri Balajee Bhavan,restaurant,13.0408797,80.2378821,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Reliance Fresh,supermarket,13.0414126,80.2385427,errands,low,family,T. Nagar,one hour,
+Domino's,fast_food,12.9727572,80.2193592,casual,low,solo,Adyar,one hour,
+Dindigul Velu Biryani,restaurant,12.969707,80.2178866,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+J P N Store,convenience,12.9465907,80.1975665,errands,low,family,Adyar,one hour,
+Balaji Stores,convenience,12.946562,80.1977006,errands,low,family,Adyar,one hour,
+Reliance Fresh,supermarket,13.0630707,80.2293217,errands,low,family,Nungambakkam,one hour,
+Sri Anjeppar restaurant,restaurant,12.9933742,80.2001919,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Loiee,restaurant,12.9935964,80.1997306,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Domino's,fast_food,12.9278815,80.2317327,casual,low,solo,Adyar,one hour,
+CUC Restaurant,restaurant,12.9274004,80.2317217,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Heaven n Home,restaurant,12.9196464,80.2306441,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+PEPPER,restaurant,12.9191392,80.2306816,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Spencer's,supermarket,12.9825831,80.18853,errands,low,family,Adyar,one hour,
+Mahayoham Supermarket,supermarket,12.9775601,80.187849,errands,low,family,Adyar,one hour,
+Univercel,convenience,12.9769485,80.1876076,errands,low,family,Adyar,one hour,
+Nilgiri's,supermarket,12.9838491,80.1920439,errands,low,family,Adyar,one hour,
+Heritage Fresh,supermarket,12.9830023,80.191427,errands,low,family,Adyar,one hour,
+Merkava Super Market,convenience,12.9808241,80.1879754,errands,low,family,Adyar,one hour,
+Hot Chappathies,fast_food,12.9809077,80.1867898,casual,low,solo,Adyar,one hour,
+Sri Sai Surya Hotel,restaurant,12.9863102,80.1883615,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Food Fiesta,restaurant,12.9803074,80.2287613,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Nandini Bakery and Restaurant,restaurant,12.988058,80.2230137,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Alams Super Market,supermarket,13.0163006,80.1749834,errands,low,family,T. Nagar,one hour,
+Manjal Supermarket,supermarket,12.8936755,80.1835818,errands,low,family,Adyar,one hour,
+The Farm,restaurant,12.8670026,80.2276391,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Panagal Park,park,13.0410311,80.2332635,relax,free,solo,T. Nagar,half a day,
+Murudi's Hotel,restaurant,13.0755331,80.2693697,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Domino's,fast_food,12.9834404,80.188332,casual,low,solo,Adyar,one hour,
+Nilgiri's,supermarket,12.9636492,80.2453424,errands,low,family,Adyar,one hour,
+Hot Pot China,restaurant,12.9636596,80.2463937,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Domino's,fast_food,13.079959,80.2499986,casual,low,solo,Nungambakkam,one hour,
+Reliance Fresh,supermarket,13.0922181,80.2173031,errands,low,family,Nungambakkam,one hour,
+Domino's,fast_food,13.0906096,80.2183881,casual,low,solo,Nungambakkam,one hour,
+Papa John's,fast_food,13.0906956,80.2184222,casual,low,solo,Nungambakkam,one hour,
+Cream & Fudge,restaurant,13.0907453,80.2184356,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Nalas Appakadai,restaurant,13.0883486,80.2178412,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+McDonald's,fast_food,13.0849157,80.2172243,casual,low,solo,Nungambakkam,one hour,
+Cafe Coffee Day,cafe,13.0835203,80.2400173,chill,mid,solo,Nungambakkam,two hours,
+McDonald's,fast_food,13.0832826,80.2402319,casual,low,solo,Nungambakkam,one hour,
+Cream & Fudge,restaurant,13.08286,80.2418285,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Al Najeeb,restaurant,13.0900655,80.2444917,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+KimLing,restaurant,13.0846594,80.2126022,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Gangotree,fast_food,13.0824583,80.2151839,casual,low,solo,Nungambakkam,one hour,Explore this exciting spot!
+Savoury Sea Shell,restaurant,13.0875854,80.2182684,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Quality Fast Food,fast_food,13.0903593,80.2186171,casual,low,solo,Nungambakkam,one hour,
+Amma Canteen,restaurant,13.0158805,80.1750645,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Sugar N Spice,supermarket,12.9827037,80.1917975,errands,low,family,Adyar,one hour,
+Bismi Biryani,fast_food,12.9873277,80.2582378,casual,low,solo,Adyar,one hour,
+Adyar Ananda Bhavan,restaurant,13.005343,80.2574322,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,fast_food,13.0152012,80.2250384,casual,low,solo,T. Nagar,one hour,Explore this exciting spot!
+Cafe Coffee Day,cafe,13.0868942,80.2019157,chill,mid,solo,Nungambakkam,two hours,
+Pazhamudhir Cholai,supermarket,12.9841137,80.221979,errands,low,family,Adyar,one hour,
+Nilgiri's,supermarket,12.9837296,80.2226282,errands,low,family,Adyar,one hour,
+Kailash Parbat,restaurant,12.989057,80.2183478,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Buy Bazaar,supermarket,12.9905101,80.2188199,errands,low,family,Adyar,one hour,
+Veg Haven,restaurant,12.9905467,80.2187073,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+iWay Restaurant,restaurant,12.9596032,80.2445544,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+GMart,supermarket,12.965964,80.2023937,errands,low,family,Adyar,one hour,
+Grow SuperMarket Manapakkam,supermarket,13.0175064,80.1745662,errands,low,family,T. Nagar,one hour,
+Ration Shop,convenience,13.0490872,80.1892365,errands,low,family,Nungambakkam,one hour,
+Singapore Shoppe,supermarket,12.9828491,80.2618804,errands,low,family,Adyar,one hour,
+In and Out Convenience Store,convenience,12.9941605,80.1871316,errands,low,family,T. Nagar,one hour,
+Papa John's,fast_food,12.99415,80.1872174,casual,low,solo,T. Nagar,one hour,
+Aishwarya Restaurant,restaurant,12.9941032,80.1871212,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Noodle King,fast_food,12.9940614,80.186987,casual,low,solo,T. Nagar,one hour,
+Fruit Shop on Greams Road,fast_food,12.9941657,80.1872979,casual,low,solo,T. Nagar,one hour,
+Wangs Kitchen,restaurant,12.973039,80.1918021,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Wait Rose,supermarket,13.0388272,80.2592138,errands,low,family,T. Nagar,one hour,
+KFC,fast_food,13.0205079,80.1842431,casual,low,solo,T. Nagar,one hour,
+Mainland China,restaurant,13.0315839,80.2461636,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Sri Krishna Stores,supermarket,13.0325923,80.266752,errands,low,family,T. Nagar,one hour,
+Raja Stores,convenience,13.0079508,80.2634323,errands,low,family,Adyar,one hour,
+Nilgiri's,supermarket,13.0597092,80.2528473,errands,low,family,Nungambakkam,one hour,
+Jeyasri Pure Veg,restaurant,13.0659239,80.2681364,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+thilak cafe,cafe,12.9826996,80.2194639,chill,mid,solo,Adyar,two hours,
+Vel Tiffin Centre,restaurant,13.0243276,80.2212113,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Fathima Cafe,restaurant,13.0246165,80.2211984,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Kumbakonam Degree Coffee,cafe,13.0222529,80.2222034,chill,mid,solo,T. Nagar,two hours,
+Style One,supermarket,13.0070553,80.2505372,errands,low,family,Adyar,one hour,
+More,supermarket,13.0253001,80.2224448,errands,low,family,T. Nagar,one hour,
+O.S.B. Hot & Chaat,fast_food,13.0354307,80.221147,casual,low,solo,T. Nagar,one hour,
+Sangeetha Vegetarian Restaurant,restaurant,13.0889275,80.2875692,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Indian Cofee House,restaurant,13.0348438,80.2305246,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Ganambal Idly Shop,restaurant,12.9297291,80.2316514,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Coffee Day,cafe,12.927839,80.2317171,chill,mid,solo,Adyar,two hours,
+Ganambal Idly Shop,restaurant,12.9308257,80.2323729,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Metro Sagar,restaurant,13.0213047,80.225602,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.1182089,80.2847614,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Reliance Fresh,supermarket,13.0385168,80.2214489,errands,low,family,T. Nagar,one hour,
+Mansuk's,restaurant,13.0355652,80.21636,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Saravana Bhavan,fast_food,13.0348232,80.2126171,casual,low,solo,T. Nagar,one hour,
+Sri Krishna Sweets,restaurant,13.0345581,80.2129456,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Paddington Sports Bar,bar,13.0298367,80.2422978,party,high,friends,T. Nagar,one hour,
+Mannah Sweets,fast_food,13.0523188,80.2281511,casual,low,solo,Nungambakkam,one hour,
+Kaidhi Kitchen,restaurant,13.0445136,80.2614492,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Royal Sandwich,fast_food,13.0338021,80.2533553,casual,low,solo,T. Nagar,one hour,
+Spoonbill,restaurant,13.0335251,80.2534304,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Royal Sandwich,fast_food,13.029088,80.2503083,casual,low,solo,T. Nagar,one hour,
+Royal Sandwich,fast_food,13.017152,80.2410121,casual,low,solo,T. Nagar,one hour,
+kirubhai store,convenience,12.9610483,80.2010975,errands,low,family,Adyar,one hour,
+Snow Cube,cafe,12.9645311,80.1878329,chill,mid,solo,Adyar,two hours,
+Gokulam,restaurant,13.0180379,80.2412019,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Home Meals,restaurant,13.0180196,80.2411617,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Madrasi Dhaba,restaurant,13.0178837,80.2415412,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Ambika Retail,supermarket,12.9969608,80.2405136,errands,low,family,Adyar,one hour,
+E3 Pizza Shop,restaurant,13.0065651,80.2507067,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+The Stop,restaurant,13.0069508,80.2576812,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Rain Forest,restaurant,13.0069018,80.2575979,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Reliance Trends,supermarket,13.0071295,80.2509856,errands,low,family,Adyar,one hour,
+Anjappar,restaurant,13.0065703,80.2508354,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Animal Kingdom,restaurant,13.0070694,80.2577985,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sea emperor,restaurant,12.9640395,80.212701,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Rainmaker,restaurant,13.0547433,80.2239795,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Escape Cinemas,cinema,13.0587298,80.263784,entertainment,mid,friends,Nungambakkam,half a day,
+Cafe Coffee Day,cafe,13.0485453,80.2457412,chill,mid,solo,Nungambakkam,two hours,
+Grill Box BBQ,restaurant,13.0455027,80.2355696,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+VSP Kitchen House,fast_food,13.0364977,80.2230573,casual,low,solo,T. Nagar,one hour,
+Moti Mahal,restaurant,12.8999989,80.2287926,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Tomb of St. Thomas,tomb,13.0335585,80.2780141,misc,mid,solo,T. Nagar,one hour,
+ARS SUPER MARKET,supermarket,13.0989018,80.2598799,errands,low,family,Nungambakkam,one hour,
+ARAVIND Traveler's Coffee,cafe,13.0963403,80.2640741,chill,mid,solo,Nungambakkam,two hours,
+Sona Supermarket,convenience,12.9740547,80.2199214,errands,low,family,Adyar,one hour,
+Cholamandal Artists' Village,attraction,12.9229059,80.2517281,touristy,low,family,Adyar,full day,
+Stone inscrptions,yes,13.0539906,80.2763155,misc,mid,solo,Nungambakkam,one hour,
+Stone inscrptions,yes,13.054043,80.2763644,misc,mid,solo,Nungambakkam,one hour,
+Coffee Tales,cafe,13.08175,80.224869,chill,mid,solo,Nungambakkam,two hours,
+Zaitoon,restaurant,13.0835126,80.225507,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sandwich Square,fast_food,13.0828046,80.2255686,casual,low,solo,Nungambakkam,one hour,
+Fresh @ Shenoy Nagar (Heritage),supermarket,13.0815953,80.2252294,errands,low,family,Nungambakkam,one hour,
+Sri Gupta Bhavan,fast_food,12.9682414,80.1487046,casual,low,solo,Adyar,one hour,
+Lakshmi Stores,supermarket,13.0597055,80.1955743,errands,low,family,Nungambakkam,one hour,
+Naidu Andhra Mess,restaurant,13.0353775,80.2343301,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Gopikrishna theatre,cinema,13.0950312,80.2273467,entertainment,mid,friends,Nungambakkam,half a day,
+Anthikkadai,restaurant,12.9824641,80.2246365,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Balan Tea,restaurant,12.9853716,80.2312088,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sree Saiva Bhavan,restaurant,13.0150919,80.1839551,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+D A Brothers food center Briyani,restaurant,13.0161035,80.1750099,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Gaurav Vada Pav Centre,restaurant,12.9692702,80.2453673,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Madras Supermarket,supermarket,13.0034121,80.2101801,errands,low,family,T. Nagar,one hour,
+The Rock Restaurant,restaurant,13.091467,80.2180657,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Arun Caterors (Swamys Homely Food),restaurant,12.9781784,80.2288982,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Meena Tai's,restaurant,13.039509,80.2538071,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+absolute barbeques ,restaurant,13.045426,80.2412295,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+madras coffee house,cafe,13.0469371,80.2368552,chill,mid,solo,Nungambakkam,two hours,
+Pind Restaurent,restaurant,12.9758138,80.2220064,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Hotel Sangeetha,restaurant,13.0701906,80.2246466,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Kovai Pazhamudir Nilayam,supermarket,13.0686453,80.2246263,errands,low,family,Nungambakkam,one hour,
+Nilgiri's,supermarket,13.0698579,80.2248039,errands,low,family,Nungambakkam,one hour,
+Amma Mess (Subsidised Food),restaurant,12.9850891,80.2405139,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+KFC,fast_food,13.1170333,80.2279792,casual,low,solo,Nungambakkam,one hour,
+Unlock,bar,12.9901763,80.2585575,party,high,friends,Adyar,one hour,
+CHENNAI CORPORATION PARK,attraction,13.0263685,80.2171939,touristy,low,family,T. Nagar,full day,
+CHICKEN 65 SHOP,attraction,13.0323409,80.2200818,touristy,low,family,T. Nagar,full day,
+EMPEE GROUP OF COMPANY,attraction,13.0727185,80.2617491,touristy,low,family,Nungambakkam,full day,
+Sumal Vegetables Market,supermarket,13.024337,80.2144512,errands,low,family,T. Nagar,one hour,
+MLA OFFICE ,attraction,13.0247674,80.2182663,touristy,low,family,T. Nagar,full day,
+TEA SHOP,restaurant,13.0273791,80.2176024,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+MOTOR FINANCE CORPORATION,attraction,13.0724579,80.2620643,touristy,low,family,Nungambakkam,full day,
+DUGAR GROUP OF COMPANY,attraction,13.0684992,80.2605802,touristy,low,family,Nungambakkam,full day,
+BHARAT SCANS,attraction,13.0337069,80.2122522,touristy,low,family,T. Nagar,full day,
+Isabel Hospital Canteen,restaurant,13.0387128,80.2624199,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Tea Shop,cafe,13.03836,80.2621637,chill,mid,solo,T. Nagar,two hours,
+Mahamudra,restaurant,13.0366167,80.2624809,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Vasantha Bhavan,restaurant,13.0621968,80.2457245,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Coal BarbeQ,restaurant,12.9859913,80.2182482,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+s.sriram,attraction,13.0229114,80.1850132,touristy,low,family,T. Nagar,full day,
+Murugan Idli Shop,restaurant,13.0891115,80.2878586,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Saravana Bhavan,fast_food,12.9855891,80.2459716,casual,low,solo,Adyar,one hour,
+DA Brothers Restaurant,restaurant,13.0110341,80.1531139,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Waitrose,supermarket,13.0108047,80.1392609,errands,low,family,T. Nagar,one hour,
+Juiceteria,cafe,12.904328,80.228305,chill,mid,solo,Adyar,two hours,
+Metro Juice,cafe,12.9067585,80.2298996,chill,mid,solo,Adyar,two hours,
+Chella Mall,mall,13.0396517,80.2428361,shop,high,friends,T. Nagar,half a day,
+Buhari Hotel,restaurant,13.0141587,80.1934357,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+New Arcot Biryani,fast_food,13.0211168,80.183088,casual,low,solo,T. Nagar,one hour,
+Barbeque Nation,restaurant,12.9437934,80.2380696,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+747,restaurant,12.9437777,80.2381152,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Coffee Shop,cafe,12.9969533,80.2405831,chill,mid,solo,Adyar,two hours,
+Raja Stores,convenience,12.9969526,80.2405195,errands,low,family,Adyar,one hour,
+KFC,fast_food,13.0262822,80.2755652,casual,low,solo,Besant Nagar,one hour,
+Absolem,cafe,13.0463171,80.246437,chill,mid,solo,Nungambakkam,two hours,
+Shine Supermarket,supermarket,12.9648137,80.2093652,errands,low,family,Adyar,one hour,
+gurunath stores,supermarket,13.0143187,80.2362976,errands,low,family,T. Nagar,one hour,
+recreation centre,cafe,13.013219,80.2373374,chill,mid,solo,T. Nagar,two hours,
+Hi-Look,cafe,13.0065052,80.2444537,chill,mid,solo,Adyar,two hours,
+Cafeteria,cafe,13.0133234,80.2360891,chill,mid,solo,T. Nagar,two hours,
+Gandhi Silai ,monument,13.1122709,80.2378269,misc,mid,solo,Nungambakkam,one hour,
+Murugan Idli Shop,restaurant,13.0378221,80.2301551,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Saravana Stores Super Market,supermarket,13.0379675,80.2297373,errands,low,family,T. Nagar,one hour,
+Candose Ice Cream Palour,cafe,13.039421,80.2288253,chill,mid,solo,T. Nagar,two hours,
+Chennai Railway Museum,museum,13.1004324,80.2087325,cultural,low,solo,Nungambakkam,two hours,
+Cafeteria,cafe,13.042971,80.2333968,chill,mid,solo,T. Nagar,two hours,
+Sri Ayyanaar Store,supermarket,12.9856682,80.2307424,errands,low,family,Adyar,one hour,
+Kosapet 5 lights,monument,13.0931657,80.2564738,misc,mid,solo,Nungambakkam,one hour,
+Kannadasan,memorial,13.0426975,80.2358745,misc,mid,solo,T. Nagar,one hour,
+corner shop,cafe,13.0236753,80.1841038,chill,mid,solo,T. Nagar,two hours,
+Adyar Anand Bhavan,restaurant,13.0886358,80.2849229,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Anand Bhavan,restaurant,13.0849504,80.2036178,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,12.9361317,80.2525172,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0363714,80.2304855,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0770838,80.2609259,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.1083317,80.2417991,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.113747,80.2885634,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0585503,80.2766839,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0823839,80.2749488,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.1080731,80.245526,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0858295,80.2541479,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.0843038,80.2249226,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Adyar Ananda Bhavan,restaurant,13.1081671,80.2916801,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Saravana Bhavan,fast_food,13.0409915,80.2367581,casual,low,solo,T. Nagar,one hour,
+AL Tharik Beef Biriyani Hotel,fast_food,13.0597983,80.2229583,casual,low,solo,Nungambakkam,one hour,
+Sri Periyandavar Super Market,supermarket,12.9862638,80.2249871,errands,low,family,Adyar,one hour,
+Dindigul Thalappakatti Restaurant,restaurant,13.0823097,80.2095947,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Starbucks,cafe,13.0850931,80.2123962,chill,mid,solo,Nungambakkam,two hours,
+Impala Food center,cafe,13.0775405,80.2619973,chill,mid,solo,Nungambakkam,two hours,
+Aruna Bhavan vegetarian restaurant,restaurant,12.8993075,80.2281164,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Hotel Valli Murugan Veg,restaurant,12.8989609,80.228151,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+My bakers juice shop,cafe,12.8988584,80.2280206,chill,mid,solo,Adyar,two hours,
+Amma Unavagam,restaurant,13.0852612,80.1989719,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Nilgris Supermarket,supermarket,13.085416,80.199766,errands,low,family,Nungambakkam,one hour,
+Dindigul Thalappakatti Restaurant,restaurant,12.9774093,80.2192931,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Kooraikadai Biriyani Center,restaurant,12.9009495,80.2308112,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+al-bake,restaurant,12.9009425,80.2322854,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Hotel Sabari,restaurant,13.0474926,80.2400944,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Saardar ji Kulfi,restaurant,12.9877999,80.2559976,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Saravana Bhavan,fast_food,13.087417,80.1982028,casual,low,solo,Nungambakkam,one hour,
+Karthick Tiffen Center,restaurant,13.0850448,80.2030227,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Nathans Cafe (Veg),restaurant,13.0703443,80.2041894,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Buhari Hotel,restaurant,12.9425654,80.2535154,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Hotel Bharani (Veg),restaurant,12.9913488,80.2561491,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sri Ganesh Bhavan (veg),restaurant,13.0196561,80.2061789,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Somu Cake,fast_food,13.0656063,80.273769,casual,low,solo,Nungambakkam,one hour,
+Ananda veg restaurant,restaurant,13.0365816,80.2511081,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Sangeetha veg restaurant,restaurant,13.0354735,80.2493101,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Adayar Ananda Bhavan (A2B),restaurant,13.0713977,80.20342,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Namma Veedu Vasantha Bhavan,restaurant,13.0572287,80.2117342,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Domino's,fast_food,13.0662325,80.2738,casual,low,solo,Nungambakkam,one hour,
+Tea Shop,cafe,12.9811251,80.2294284,chill,mid,solo,Adyar,two hours,
+Ayya SuperMarket,supermarket,12.9813012,80.2295534,errands,low,family,Adyar,one hour,
+McDonald's,fast_food,13.0068373,80.2542291,casual,low,solo,Adyar,one hour,
+JK Super Market,supermarket,12.9799898,80.2089352,errands,low,family,Adyar,one hour,
+Sorgam,restaurant,13.0113027,80.2539436,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Ambedkar Statue,monument,13.1055919,80.2079346,misc,mid,solo,Nungambakkam,one hour,
+AL MYSHIESHA RESTAURANT,restaurant,13.0288445,80.224007,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Jamba Juice,fast_food,13.0287635,80.2198496,casual,low,solo,T. Nagar,one hour,
+Saran fast food,fast_food,13.0283112,80.2239348,casual,low,solo,T. Nagar,one hour,
+Starbucks,cafe,13.029281,80.2485711,chill,mid,solo,T. Nagar,two hours,
+Subway,fast_food,13.0297072,80.2454577,casual,low,solo,T. Nagar,one hour,
+Amma Unavagam,restaurant,12.9341202,80.2332305,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+M.G.R. Memorial Park,memorial,13.0642744,80.2853155,misc,mid,solo,Nungambakkam,one hour,
+Kova Alankar Vilas,restaurant,13.0808614,80.2675812,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Subway,fast_food,13.0741894,80.2621162,casual,low,solo,Nungambakkam,one hour,
+Saravana Bhavan,fast_food,13.0768575,80.2622942,casual,low,solo,Nungambakkam,one hour,
+Greenapple,fast_food,13.084481,80.2760751,casual,low,solo,Nungambakkam,one hour,
+Tropicana Bar,bar,13.0766998,80.2625321,party,high,friends,Nungambakkam,one hour,
+Rawther Restaurant,restaurant,13.0689007,80.256646,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+IndCafe,cafe,13.0680696,80.2563969,chill,mid,solo,Nungambakkam,two hours,
+Palmshore,restaurant,13.0695817,80.2572161,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Cisons Complex,mall,13.0690491,80.2570006,shop,high,friends,Nungambakkam,half a day,
+Perarignar Anna Memorial,memorial,13.065471,80.2855855,misc,mid,solo,Nungambakkam,one hour,
+Pizza Hut,restaurant,12.9843083,80.1673118,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+KFC,fast_food,12.984588,80.1676556,casual,low,solo,T. Nagar,one hour,
+Akbar Marundhu Mill,attraction,13.0347941,80.273749,touristy,low,family,T. Nagar,full day,
+Annachi Super Market,supermarket,13.0874539,80.1966386,errands,low,family,Nungambakkam,one hour,
+Hotel Bhukara,restaurant,13.0874492,80.1980697,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Starbucks,cafe,13.0292984,80.2484733,chill,mid,solo,T. Nagar,two hours,
+KrishnaVillasam,restaurant,13.0048142,80.2547297,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Noodle Theory,restaurant,13.0456112,80.2408779,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Nuts and Spices,supermarket,13.045587,80.2407688,errands,low,family,Nungambakkam,one hour,
+Nilgiri's,supermarket,13.0455141,80.2406636,errands,low,family,Nungambakkam,one hour,
+Wow! Momos,fast_food,12.9806527,80.1639502,casual,low,solo,T. Nagar,one hour,
+Subway,fast_food,12.9844031,80.167661,casual,low,solo,T. Nagar,one hour,
+Wow! Momo,fast_food,12.984361,80.1674836,casual,low,solo,T. Nagar,one hour,
+Buhari Hotel,restaurant,13.0473514,80.2447632,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+AGS Cinemas (T Nagar),cinema,13.0474821,80.2450469,entertainment,mid,friends,Nungambakkam,half a day,
+Bharathi Mess,restaurant,13.0586043,80.2767198,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Kaaraikudi Chettinad Restaurant,restaurant,13.0299433,80.2422867,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+The Thickshake Factory,restaurant,13.0470852,80.2453529,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Kamaraj Memorial,memorial,13.0490327,80.2496348,misc,mid,solo,Nungambakkam,one hour,
+KFC,fast_food,13.0721863,80.2026446,casual,low,solo,Nungambakkam,one hour,
+Muthamiz Hotel,restaurant,13.1081205,80.2452539,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Chennai Corporation Park,park,12.9759493,80.2178529,relax,free,solo,Adyar,half a day,
+A2B,restaurant,13.0684153,80.2041932,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Blah Bistro,restaurant,13.0654508,80.243297,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Marina Lighthouse,attraction,13.039631,80.2794168,touristy,low,family,T. Nagar,full day,
+Sivaji Ganesan Memorial,memorial,13.0160705,80.2592477,misc,mid,solo,Adyar,one hour,
+Black Box,fast_food,13.0593071,80.2446893,casual,low,solo,Nungambakkam,one hour,
+Salem RR Biriyani,restaurant,13.0195262,80.2065287,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Kanchi Singu Aiyyar Bhavan,restaurant,13.0216123,80.2066863,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Cafe Coffee Day,cafe,13.0495809,80.2572224,chill,mid,solo,Nungambakkam,two hours,
+Peppercorn,fast_food,12.9068889,80.2242154,casual,low,solo,Adyar,one hour,
+Snow Cube Cafe,cafe,12.9693611,80.1887998,chill,mid,solo,Adyar,two hours,
+Kappa Chakka Kandhari,restaurant,13.0642227,80.2479976,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+PVR Cinemas Grand Galada,cinema,12.9785611,80.1616747,entertainment,mid,friends,Adyar,half a day,
+Helice,supermarket,13.054753,80.2455557,errands,low,family,Nungambakkam,one hour,
+Drunken Monkey,bar,13.0330302,80.2116697,party,high,friends,T. Nagar,one hour,
+Sulthan's,restaurant,13.0331629,80.2117295,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Saravana Bhavan,fast_food,13.0361328,80.2125995,casual,low,solo,T. Nagar,one hour,
+Anjappar,restaurant,13.0557267,80.2485052,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Domino's,fast_food,13.0531665,80.2466703,casual,low,solo,Nungambakkam,one hour,
+Surabh,restaurant,13.0568503,80.2428855,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Cafe Coffee Day,cafe,13.0554045,80.2496804,chill,mid,solo,Nungambakkam,two hours,
+Rajendran Store,supermarket,13.0554705,80.2456105,errands,low,family,Nungambakkam,one hour,
+Mylapore Filter Coffee,cafe,13.0555258,80.2458215,chill,mid,solo,Nungambakkam,two hours,
+Mathura Chat and Lassi,fast_food,13.0557243,80.2471356,casual,low,solo,Nungambakkam,one hour,
+Madras Coffee House,cafe,13.0557506,80.2471927,chill,mid,solo,Nungambakkam,two hours,
+Angadi,supermarket,13.0553682,80.2457969,errands,low,family,Nungambakkam,one hour,
+Thalappakatti,restaurant,13.0539386,80.250339,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Madras Curry Cup,restaurant,13.0533468,80.2494941,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+KFC,fast_food,13.0534389,80.2473986,casual,low,solo,Nungambakkam,one hour,
+Grace World,supermarket,13.0574051,80.2430596,errands,low,family,Nungambakkam,one hour,
+Aathirai,restaurant,13.0585809,80.241796,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+KFC,fast_food,13.00051,80.2707475,casual,low,solo,Besant Nagar,one hour,
+WhatsFresh,supermarket,12.9695845,80.2439087,errands,low,family,Adyar,one hour,
+park,park,13.0668847,80.2414517,relax,free,solo,Nungambakkam,half a day,
+Hotel Akshayam,restaurant,12.9733427,80.2194396,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+KFC,fast_food,13.0316616,80.2115156,casual,low,solo,T. Nagar,one hour,
+Ibaco,fast_food,12.964293,80.1982097,casual,low,solo,Adyar,one hour,Explore this exciting spot!
+Arush Retail Supermarket,supermarket,13.0210736,80.1602804,errands,low,family,T. Nagar,one hour,
+Grace Hypermarket,supermarket,13.0398646,80.131182,errands,low,family,Nungambakkam,one hour,
+Alagar Multicuisine Restaurant,restaurant,13.0373996,80.2163947,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Hotel Tiruchendur Mani Iyer,restaurant,13.034046,80.2162828,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+New Ganesh Cafe,cafe,13.0340735,80.2169077,chill,mid,solo,T. Nagar,two hours,
+Wheels on Fire,restaurant,13.034045,80.2171992,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Nuts N Spices,supermarket,13.0342714,80.2155103,errands,low,family,T. Nagar,one hour,
+Grace Super Market,supermarket,13.0341642,80.2151382,errands,low,family,T. Nagar,one hour,
+Salem RR biryani Unavagam AC,restaurant,12.9887853,80.2183072,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Inox,cinema,13.0430874,80.2737331,entertainment,mid,friends,T. Nagar,half a day,
+Krishna Supermarket,supermarket,12.9665853,80.2360977,errands,low,family,Adyar,one hour,
+Amudham Supermarket,supermarket,13.0474258,80.268615,errands,low,family,Nungambakkam,one hour,
+Ration Shop,convenience,12.9754659,80.1894155,errands,low,family,Adyar,one hour,
+Zaika Uttar Da,restaurant,12.9773969,80.2240566,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Kasi Talkies,cinema,13.0301649,80.2071951,entertainment,mid,friends,T. Nagar,half a day,
+McRennett Cakes,restaurant,13.0364073,80.2121432,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Hot Chips Veg Restaurant,restaurant,13.0367439,80.2121821,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Chennai Darbar Restaurant,restaurant,13.0299235,80.2096111,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+SPI Palazzo Chennai,cinema,13.0506761,80.2096467,entertainment,mid,friends,Nungambakkam,half a day,
+Dindigul Thalappakatti Ashok Nagar,restaurant,13.0312424,80.2161917,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Ayya Chettinad Unavagam,restaurant,13.0270738,80.2107079,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Parvathi Store,convenience,13.0279813,80.2095824,errands,low,family,T. Nagar,one hour,
+Island Kitchen,restaurant,13.0273546,80.2119134,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Ray Mart Supermarket,supermarket,13.0284745,80.2123238,errands,low,family,T. Nagar,one hour,
+Palmshore Restaurant Ashok Nagar,restaurant,13.0297592,80.2087661,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Hotel Sangeetha Pure VEG,restaurant,13.0295669,80.2111579,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Arabian Foods and Bites,fast_food,13.0297966,80.2105189,casual,low,solo,T. Nagar,one hour,
+Visalam Supermarket,supermarket,13.0299976,80.2088159,errands,low,family,T. Nagar,one hour,
+Bharath Gem Testing Lab,supermarket,13.0365972,80.2323815,errands,low,family,T. Nagar,one hour,
+Dhanyam organic shop,supermarket,12.9983201,80.2513463,errands,low,family,Adyar,one hour,
+Dhanyam Organic store,supermarket,12.9761125,80.2211935,errands,low,family,Adyar,one hour,
+Dhanyam organic store,supermarket,13.0445056,80.2443029,errands,low,family,T. Nagar,one hour,
+Dhanyam Organic shop,supermarket,13.0838561,80.212224,errands,low,family,Nungambakkam,one hour,
+Dhanyam organic store,supermarket,12.942059,80.2534825,errands,low,family,Adyar,one hour,
+Dindigul Thalappakatti Restaurant T NAGAR,restaurant,13.033688,80.2383491,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Nilgiri's,supermarket,12.87087,80.2436443,errands,low,family,Adyar,one hour,
+India Coffee House,cafe,12.8728311,80.2434271,chill,mid,solo,Adyar,two hours,
+Tosai Restaurant,restaurant,12.8728366,80.2435159,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+GKS Santhi Bavan,restaurant,13.1031362,80.2079955,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Burma Square,fast_food,12.97435,80.2441455,casual,low,solo,Adyar,one hour,
+Cool Biz,restaurant,12.9811415,80.2430286,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+C.S.Rajasundaram Chetty & Sons.,supermarket,13.0859974,80.2807246,errands,low,family,Nungambakkam,one hour,
+Burmese Cafe,cafe,13.0557253,80.2470491,chill,mid,solo,Nungambakkam,two hours,
+Shell Select,convenience,12.9642072,80.187667,errands,low,family,Adyar,one hour,
+Alif Biryani,restaurant,12.9728077,80.1914452,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sri Vinayaga Hot Chips,fast_food,12.9727291,80.1914155,casual,low,solo,Adyar,one hour,
+Biryani Shop,restaurant,12.973021,80.1915414,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+C K Selvam Super Store,supermarket,12.9720719,80.1911414,errands,low,family,Adyar,one hour,
+Domino's,fast_food,12.9802606,80.1988848,casual,low,solo,Adyar,one hour,
+Drunken Monkey,fast_food,12.9801791,80.199145,casual,low,solo,Adyar,one hour,
+Oyalo Pizza,fast_food,12.9749708,80.1922417,casual,low,solo,Adyar,one hour,
+Madurai Alagarsamy Mess,restaurant,12.9757537,80.1925149,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+A1 Chips,fast_food,12.9662978,80.1888784,casual,low,solo,Adyar,one hour,
+PVR Cinemas,cinema,12.9719083,80.2207302,entertainment,mid,friends,Adyar,half a day,
+Kurtosshhh,restaurant,13.0009865,80.2706996,romantic,mid,date,Besant Nagar,two hours,Explore this exciting spot!
+Venkateswara Boli Stall,fast_food,12.9691164,80.190081,casual,low,solo,Adyar,one hour,
+More,supermarket,12.9709195,80.1905786,errands,low,family,Adyar,one hour,
+Sri Kannan Super Stores,supermarket,12.9716144,80.2188896,errands,low,family,Adyar,one hour,
+Savoury Sea Shell,restaurant,12.9723375,80.2192115,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Zaitoon,restaurant,12.9731363,80.2194965,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Nellai New Ruchi Hotel,restaurant,12.982487,80.2253583,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Royal Coffee,cafe,12.9825441,80.2253523,chill,mid,solo,Adyar,two hours,
+SMS Super Market,convenience,12.9770646,80.2254882,errands,low,family,Adyar,one hour,
+Tamu Tamu,restaurant,13.0475624,80.2544953,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Green Mantra,convenience,12.981822,80.1891132,errands,low,family,Adyar,one hour,
+Froz'n,convenience,12.9709314,80.223386,errands,low,family,Adyar,one hour,
+Hotel Buhari,restaurant,12.9794189,80.2264976,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+St. Thomas Pole,monument,13.0332048,80.2787726,misc,mid,solo,T. Nagar,one hour,
+Osteria By That Madras Place,restaurant,13.0059052,80.2507705,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+More,supermarket,13.044123,80.240596,errands,low,family,T. Nagar,one hour,
+Biriyania,restaurant,13.0354377,80.2494992,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Shri Rajasthani Dhaba,restaurant,13.0848937,80.2048073,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Santhosh Supermarket,supermarket,13.0853781,80.2061677,errands,low,family,Nungambakkam,one hour,
+Tryst,cafe,12.9463035,80.2540207,chill,mid,solo,Adyar,two hours,
+The Baristo Brew,cafe,13.0609645,80.2469181,chill,mid,solo,Nungambakkam,two hours,
+Yarl Supermarket,convenience,12.9709728,80.2230336,errands,low,family,Adyar,one hour,
+Pumpkin Tales,restaurant,13.0335737,80.2552947,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Ek Aur Paratha,restaurant,13.0482571,80.2534355,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+That Mallu Joint,restaurant,13.0416717,80.2346309,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+The North View Kitchen,restaurant,13.006018,80.2001145,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Polka Pastry,restaurant,13.0060258,80.1999482,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+House #22 Cafe,cafe,13.0060598,80.1997658,chill,mid,solo,T. Nagar,two hours,
+Little Italy,restaurant,12.9963828,80.2684474,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Annai Atuppankarai,restaurant,12.9662356,80.1906699,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Thanthai Periyar Statue,memorial,12.9741318,80.183337,misc,mid,solo,Adyar,one hour,
+Sukkubhai Biryani,restaurant,13.0004562,80.2005863,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Sree Gupta Bhavan,restaurant,12.9875298,80.2182192,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Arasi Restaurant,restaurant,13.0635552,80.2763834,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+75th Anniversary of Independence Monument,monument,13.0678837,80.2841124,misc,mid,solo,Nungambakkam,one hour,
+Alchemy Media Marketing,supermarket,12.9945334,80.2640619,errands,low,family,Adyar,one hour,
+Bombardment of Madras Site,memorial,13.0879678,80.2899079,misc,mid,solo,Nungambakkam,one hour,
+Hot Chips Vegetarian Restaurant,restaurant,13.0887528,80.2867827,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Hotel Ezham Suvai,restaurant,12.9738369,80.1833882,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Puratchi Thalaivi Amma Dr. J. Jayalalithaa Memorial,memorial,13.06416,80.2857739,misc,mid,solo,Nungambakkam,one hour,
+Fusili Reasons,restaurant,13.0799423,80.2441589,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Hokkaido,restaurant,13.0330561,80.2527299,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Amma mess,restaurant,12.9411181,80.2044784,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+A-1 Hyderabad Biriyani & Fast Food,restaurant,13.088904,80.286806,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Madhavan mess,fast_food,13.1242262,80.2014693,casual,low,solo,Nungambakkam,one hour,
+Juice shop,fast_food,13.1256796,80.2016216,casual,low,solo,Nungambakkam,one hour,
+Venkateshwara fruit shop,supermarket,13.1255155,80.2014918,errands,low,family,Nungambakkam,one hour,
+Suprabatham,restaurant,13.0887415,80.2865499,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Anna Viruksham Vegetarian Restaurant,restaurant,13.0905767,80.2905767,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sir Charles Trevelyan Memorial,memorial,13.0820557,80.2729492,misc,mid,solo,Nungambakkam,one hour,
+Queen's Cool Palace,cafe,13.0924508,80.2898978,chill,mid,solo,Nungambakkam,two hours,
+Corner Coolbar,convenience,13.0924448,80.2899754,errands,low,family,Nungambakkam,one hour,
+Esplanade Boundary Marker,monument,13.0889988,80.2899841,misc,mid,solo,Nungambakkam,one hour,
+State Emblem Monument,monument,13.043153,80.2796808,misc,mid,solo,T. Nagar,one hour,
+Chai Waale,cafe,13.0948869,80.2861755,chill,mid,solo,Nungambakkam,two hours,Explore this exciting spot!
+Broadway Biriyani,restaurant,13.0886372,80.284971,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ninan's Restaurant,restaurant,13.0887346,80.2862359,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sea Shore,restaurant,13.0890597,80.2852408,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Praba Cool Bar,cafe,13.0907195,80.2843765,chill,mid,solo,Nungambakkam,two hours,
+A2B Restaurant,restaurant,13.0149457,80.1922065,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Robert Clive Memorial,memorial,13.0785866,80.2860043,misc,mid,solo,Nungambakkam,one hour,
+Hotel Akshaya Bhavan,restaurant,13.0399578,80.1320627,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Reliance super market,supermarket,13.126522,80.2017441,errands,low,family,Nungambakkam,one hour,
+Muhil soup,fast_food,13.1248648,80.201448,casual,low,solo,Nungambakkam,one hour,
+kebab kings,fast_food,13.1236664,80.2014737,casual,low,solo,Nungambakkam,one hour,
+mordern cofee,cafe,13.1236413,80.2015038,chill,mid,solo,Nungambakkam,two hours,
+MM Cafe,cafe,13.124311,80.201478,chill,mid,solo,Nungambakkam,two hours,
+Alstom Metropolis,monument,13.0323338,80.243172,misc,mid,solo,T. Nagar,one hour,
+The Red Box,restaurant,13.1026805,80.2905294,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+K7,restaurant,13.1022825,80.2904264,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Jamavar,restaurant,13.0169477,80.2738948,romantic,mid,date,Besant Nagar,two hours,Explore this exciting spot!
+Spectra,restaurant,13.0171169,80.2739851,romantic,mid,date,Besant Nagar,two hours,Explore this exciting spot!
+The Lobby Lounge,restaurant,13.0173672,80.274099,romantic,mid,date,Besant Nagar,two hours,Explore this exciting spot!
+Library Blu at The Leela Palace,bar,13.017266,80.2743605,party,high,friends,Besant Nagar,one hour,
+Caribeean Chai,cafe,13.0931158,80.2910773,chill,mid,solo,Nungambakkam,two hours,
+Cool House,fast_food,13.0932475,80.291037,casual,low,solo,Nungambakkam,one hour,
+A.K. Tea Stall,cafe,13.1012171,80.2942221,chill,mid,solo,Nungambakkam,two hours,
+Minerva Bar,bar,13.0934636,80.2856716,party,high,friends,Nungambakkam,one hour,
+Nisha Cafe,cafe,13.093665,80.2897756,chill,mid,solo,Nungambakkam,two hours,
+Royal Hot In Cold,fast_food,13.093601,80.2901765,casual,low,solo,Nungambakkam,one hour,
+Merdeka Juice Point,fast_food,13.0933232,80.2902547,casual,low,solo,Nungambakkam,one hour,
+Chennai Woodlands,restaurant,13.0942585,80.2913537,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Top Form,restaurant,13.0944064,80.2914241,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Greenapple Juice Shop,fast_food,13.0934492,80.2911389,casual,low,solo,Nungambakkam,one hour,
+New Modern Tea Stall,cafe,13.0943274,80.2908948,chill,mid,solo,Nungambakkam,two hours,
+Athima Tiffin Centre,cafe,13.0943855,80.2908945,chill,mid,solo,Nungambakkam,two hours,
+Food Corner,cafe,13.0955445,80.2913878,chill,mid,solo,Nungambakkam,two hours,
+Mab Tea Point,convenience,13.0959376,80.2914659,errands,low,family,Nungambakkam,one hour,
+Chaat Zone,fast_food,13.0959948,80.2912592,casual,low,solo,Nungambakkam,one hour,
+Hotel Moon,fast_food,13.0960049,80.2912208,casual,low,solo,Nungambakkam,one hour,
+Classic Barbeque Corner,restaurant,13.0960127,80.2911867,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sri Maa Kali Tea Stall,cafe,13.0942076,80.2892837,chill,mid,solo,Nungambakkam,two hours,
+Chennai Juice World,fast_food,13.0944464,80.2891745,casual,low,solo,Nungambakkam,one hour,
+ABC Cafe,cafe,13.0963553,80.2892692,chill,mid,solo,Nungambakkam,two hours,
+Sree Annai Pazharasam Fresh Juice & Cold Drinks,fast_food,13.0963162,80.2894382,casual,low,solo,Nungambakkam,one hour,
+Sankar Cool Bar,fast_food,13.0957813,80.289378,casual,low,solo,Nungambakkam,one hour,
+Rani Dam Chai,cafe,13.0956243,80.2893557,chill,mid,solo,Nungambakkam,two hours,
+New Priya Chat Center,fast_food,13.0966171,80.2877228,casual,low,solo,Nungambakkam,one hour,
+Olympic Tea & Fresh Juice,fast_food,13.0966107,80.287775,casual,low,solo,Nungambakkam,one hour,
+Alreef The Family Restaurant,restaurant,13.0965713,80.2878998,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Alreef Cafe,cafe,13.09651,80.2879306,chill,mid,solo,Nungambakkam,two hours,
+Moonstar Cool Bar,fast_food,13.0965172,80.2881725,casual,low,solo,Nungambakkam,one hour,
+Al-Ameen Tiffen Center,cafe,13.0965216,80.2881464,chill,mid,solo,Nungambakkam,two hours,
+Udipi Sri Durga Bhavan,restaurant,13.0965119,80.2882079,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Farida Fast Food,fast_food,13.0964998,80.2882948,casual,low,solo,Nungambakkam,one hour,
+JEeva Illam,memorial,13.0469821,80.2501704,misc,mid,solo,Nungambakkam,one hour,
+Konar Kadai,restaurant,13.07648,80.2643566,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Hatimy's,restaurant,13.0969063,80.2866796,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Valima Biriyani,restaurant,13.097062,80.2866516,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Manjal,restaurant,13.0453571,80.2555131,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Black Orchid,bar,13.0276017,80.2529195,party,high,friends,T. Nagar,one hour,
+Cannon,memorial,13.0812606,80.2713741,misc,mid,solo,Nungambakkam,one hour,
+Cannon,memorial,13.0813815,80.2719592,misc,mid,solo,Nungambakkam,one hour,
+Hotel Farida,restaurant,13.0968585,80.2870288,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Kebab Centre,fast_food,13.0961176,80.2912083,casual,low,solo,Nungambakkam,one hour,
+A to Z Hyderabad Biryani,fast_food,13.0960322,80.2914647,casual,low,solo,Nungambakkam,one hour,
+Seema,restaurant,13.09688,80.2908894,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Olympic Tea & Fresh Juice,fast_food,13.096196,80.2909115,casual,low,solo,Nungambakkam,one hour,
+CM Corner Cafe,cafe,13.0968758,80.2907429,chill,mid,solo,Nungambakkam,two hours,
+Taste of Turkey,restaurant,13.0964397,80.2902357,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Arabian Nights Shawarma,fast_food,13.0963895,80.2897607,casual,low,solo,Nungambakkam,one hour,
+Lassi Shop,fast_food,13.0963927,80.2897283,casual,low,solo,Nungambakkam,one hour,
+Cutting Chai Yaari,cafe,13.0966064,80.2901251,chill,mid,solo,Nungambakkam,two hours,
+Baap,fast_food,13.096636,80.2884752,casual,low,solo,Nungambakkam,one hour,
+Sea Lord,cafe,13.0994059,80.2938237,chill,mid,solo,Nungambakkam,two hours,
+Grill Nights,restaurant,13.0976067,80.2932418,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Golden Tea,cafe,13.098215,80.2930031,chill,mid,solo,Nungambakkam,two hours,
+Psychedelic Hues - Art house and Cafe,cafe,13.0754835,80.2588986,chill,mid,solo,Nungambakkam,two hours,
+T-55,monument,12.9985702,80.1919684,misc,mid,solo,T. Nagar,one hour,
+Junction Grocery World,convenience,12.9984885,80.2674775,errands,low,family,Adyar,one hour,
+Chef Adrian's Great Wall Chinese Restaurant,restaurant,12.9984715,80.267535,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Geetha Cafe,cafe,12.9981194,80.2675982,chill,mid,solo,Adyar,two hours,
+Chi Cafe,cafe,12.9922698,80.2170766,chill,mid,solo,Adyar,two hours,
+Krispy Kreme,fast_food,12.9920432,80.2169286,casual,low,solo,Adyar,one hour,
+Jonah's goes to Japan,restaurant,12.9919466,80.2166021,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Cha Republic,cafe,12.9919024,80.2165543,chill,mid,solo,Adyar,two hours,
+Big Bazaar,supermarket,12.9911157,80.216663,errands,low,family,Adyar,one hour,
+Chai Kings,cafe,12.9962247,80.2702906,chill,mid,solo,Besant Nagar,two hours,
+Madras Coffee House,cafe,12.9961883,80.2702881,chill,mid,solo,Besant Nagar,two hours,
+Omar Khayyam,restaurant,13.0408892,80.2317501,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Beracha Convenience Stores,convenience,13.0407815,80.2315892,errands,low,family,T. Nagar,one hour,
+Hot Chips,restaurant,13.0408527,80.2311764,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Nic Nac,restaurant,13.0406949,80.2322275,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+May Day Monument,monument,13.0734541,80.2732181,misc,mid,solo,Nungambakkam,one hour,
+McDonald's,fast_food,13.0543277,80.2501562,casual,low,solo,Nungambakkam,one hour,
+Six 'O' One,restaurant,13.0528083,80.2496472,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Chai Kings,cafe,13.0577863,80.2574861,chill,mid,solo,Nungambakkam,two hours,
+McDonald's,fast_food,13.0617099,80.2619449,casual,low,solo,Nungambakkam,one hour,
+Domino's,fast_food,13.0616426,80.2617916,casual,low,solo,Nungambakkam,one hour,
+India Post Philatelic Bureau,museum,13.0672252,80.2696676,cultural,low,solo,Nungambakkam,two hours,
+Punjab Grill,restaurant,12.9913342,80.2169537,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Starbucks,cafe,12.9917017,80.2170139,chill,mid,solo,Adyar,two hours,
+Pappa Roti,restaurant,12.9918725,80.2170556,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Mainland China,restaurant,12.9911631,80.2170363,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+The Coffee Bean & Tea Leaf,cafe,12.9912251,80.2170117,chill,mid,solo,Adyar,two hours,
+Kobe Sizzlers,restaurant,12.9914076,80.216939,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Khandani Rajdhani,restaurant,12.9911032,80.2170766,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Jazz Cinemas LUXE,cinema,12.9911536,80.2164418,entertainment,mid,friends,Adyar,half a day,
+Vasanta Bhavan,restaurant,12.9912272,80.217063,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Burger King,fast_food,12.991546,80.2170141,casual,low,solo,Adyar,one hour,
+Wow! Momo,fast_food,12.9911318,80.2171192,casual,low,solo,Adyar,one hour,
+Arabian Hut,restaurant,12.9913743,80.2170186,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Domino's,fast_food,12.9914529,80.2170008,casual,low,solo,Adyar,one hour,
+KFC,fast_food,12.991497,80.2169976,casual,low,solo,Adyar,one hour,
+Sizzy Fresh Juice,fast_food,13.1022375,80.2763435,casual,low,solo,Nungambakkam,one hour,
+Thamara Super Mart,convenience,13.1020646,80.2761696,errands,low,family,Nungambakkam,one hour,
+Sri Maruthi Store,convenience,13.1023292,80.2776734,errands,low,family,Nungambakkam,one hour,
+Sri Kumaran Daily Needs and Provisions,convenience,13.0217381,80.2309677,errands,low,family,T. Nagar,one hour,
+Pandian Stores,convenience,13.0223338,80.2311815,errands,low,family,T. Nagar,one hour,
+Marmalong Bridge (1728-1966) Monument,monument,13.0193927,80.2246204,misc,mid,solo,T. Nagar,one hour,
+Al-Arsh Hotel,restaurant,13.1019911,80.2926089,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+RPS Cafe,cafe,13.0984966,80.2924206,chill,mid,solo,Nungambakkam,two hours,
+Thai Mess,restaurant,13.0985064,80.2923742,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Grandway Supermarket,convenience,13.101165,80.2916643,errands,low,family,Nungambakkam,one hour,
+K. B. Tea Stall,cafe,13.1009922,80.2916438,chill,mid,solo,Nungambakkam,two hours,
+Greenapple Juice Shop,fast_food,13.1009979,80.2915977,casual,low,solo,Nungambakkam,one hour,
+Rihan Mart,convenience,13.0988941,80.2872676,errands,low,family,Nungambakkam,one hour,
+Super Stores,convenience,13.0998623,80.2874679,errands,low,family,Nungambakkam,one hour,
+Zam Zam Hot Chips,fast_food,13.0997277,80.2877847,casual,low,solo,Nungambakkam,one hour,
+New Corner Store,convenience,13.0966737,80.287964,errands,low,family,Nungambakkam,one hour,
+Muthumalai Amman Provision,convenience,13.0995988,80.288623,errands,low,family,Nungambakkam,one hour,
+Nitesh Chat House,fast_food,13.0995895,80.2887629,casual,low,solo,Nungambakkam,one hour,
+Malar Fresh Juice,fast_food,13.0995811,80.2888424,casual,low,solo,Nungambakkam,one hour,
+Bharat Tea Stall,cafe,13.0996157,80.288504,chill,mid,solo,Nungambakkam,two hours,
+iCafe,cafe,13.0968183,80.2884066,chill,mid,solo,Nungambakkam,two hours,
+Chennai Zero Mile,monument,13.0804251,80.280738,misc,mid,solo,Nungambakkam,one hour,
+4 am Bonda Shop,cafe,13.0736757,80.2208569,chill,mid,solo,Nungambakkam,two hours,
+Akka Shop,cafe,13.1117167,80.2266215,chill,mid,solo,Nungambakkam,two hours,
+FNF Smoke Shop,cafe,13.085191,80.2203288,chill,mid,solo,Nungambakkam,two hours,
+Adam Store,convenience,13.0981862,80.2911375,errands,low,family,Nungambakkam,one hour,
+Aju Corner Cool Bar,fast_food,13.0987924,80.2905773,casual,low,solo,Nungambakkam,one hour,
+Jam Jam Tea and Cool Bar,fast_food,13.0987549,80.2900061,casual,low,solo,Nungambakkam,one hour,
+Mahalakshmi Stores,convenience,12.9598605,80.2420892,errands,low,family,Adyar,one hour,
+Starbucks,cafe,12.9497648,80.2405213,chill,mid,solo,Adyar,two hours,
+Geetha Provisions,convenience,13.0987901,80.2792897,errands,low,family,Nungambakkam,one hour,
+Sabari Tea Stall,cafe,13.098786,80.2793185,chill,mid,solo,Nungambakkam,two hours,
+Mahaveer Provision Stores,convenience,13.0986362,80.2799633,errands,low,family,Nungambakkam,one hour,
+i-Mart,convenience,13.0933262,80.2850274,errands,low,family,Nungambakkam,one hour,
+Real Biriyani,restaurant,13.0886236,80.2847721,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Myson,cafe,13.0897314,80.2848828,chill,mid,solo,Nungambakkam,two hours,
+Chennai Rawther Restaurant,fast_food,13.0845556,80.276122,casual,low,solo,Nungambakkam,one hour,
+Hotel Shiva Sagar,restaurant,13.0847852,80.2761096,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sri Vinayaga Tea Stall,cafe,13.0848718,80.2760315,chill,mid,solo,Nungambakkam,two hours,
+Sri Magesh Chettinadu Restaurant,restaurant,13.0849943,80.2760161,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+New Central Hotel,restaurant,13.0835958,80.2762218,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Juice Corner,fast_food,13.0835444,80.2762266,casual,low,solo,Nungambakkam,one hour,
+OSCAR Restaurant,restaurant,13.0835518,80.2763247,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+PVR Aerohub,cinema,12.9817599,80.165635,entertainment,mid,friends,T. Nagar,half a day,
+Golden Corner,fast_food,13.0885995,80.2813738,casual,low,solo,Nungambakkam,one hour,
+Guava Cafe,fast_food,13.0885862,80.2823954,casual,low,solo,Nungambakkam,one hour,
+Ahmadia,restaurant,13.0886025,80.2823069,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Plaza Biriyani,restaurant,13.0886066,80.2822784,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ganeshan Cool Bar,fast_food,13.091402,80.282483,casual,low,solo,Nungambakkam,one hour,
+New Annapoorani Hotel,restaurant,13.0916476,80.2825231,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sri Vasavi Traders,convenience,13.0919729,80.2825771,errands,low,family,Nungambakkam,one hour,
+Sankar Cafe,cafe,13.088514,80.2832457,chill,mid,solo,Nungambakkam,two hours,
+Marudhar Provisions,convenience,13.0910648,80.2760058,errands,low,family,Nungambakkam,one hour,
+Krishna Tea Stall,cafe,13.0904483,80.2753938,chill,mid,solo,Nungambakkam,two hours,
+Tasmac,bar,12.9802916,80.1997635,party,high,friends,Adyar,one hour,
+Karaikudi Chettinad Hotel,restaurant,13.0886531,80.2755976,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Trisha Fast Food,fast_food,13.0886193,80.2756775,casual,low,solo,Nungambakkam,one hour,
+Kumaran Stores,convenience,13.0835677,80.2784045,errands,low,family,Nungambakkam,one hour,
+Aburva Tea Stall,cafe,13.0835335,80.2783025,chill,mid,solo,Nungambakkam,two hours,
+Harichandhana Coffee House,cafe,13.0836266,80.2781435,chill,mid,solo,Nungambakkam,two hours,
+Seiko Grill,restaurant,13.1046141,80.2859105,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Seiko Cafe,cafe,13.1047112,80.2856761,chill,mid,solo,Nungambakkam,two hours,
+Gowri Sankar Hotel,restaurant,13.056285,80.2116533,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Majeeth Restaurant,restaurant,13.1047537,80.2855257,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Hotel Sri Lakshmi,restaurant,13.1043444,80.2846056,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Manoj Snack Bar,fast_food,13.1040708,80.2845425,casual,low,solo,Nungambakkam,one hour,
+M. K. Fresh Juice,fast_food,13.1040965,80.2845486,casual,low,solo,Nungambakkam,one hour,
+Saleem Biriyani,restaurant,13.1038579,80.2736521,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Fathima Burma Athoo Shop,restaurant,13.1038553,80.2736287,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Naturals Dairy,convenience,13.0976962,80.2855786,errands,low,family,Nungambakkam,one hour,
+Rasoee,restaurant,13.0930095,80.2795454,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Assam Tea House,cafe,13.0941723,80.2796696,chill,mid,solo,Nungambakkam,two hours,
+Parvathi Filter Coffee and Tea,cafe,13.0927811,80.2797847,chill,mid,solo,Nungambakkam,two hours,
+Lena Tea Stall,cafe,13.092844,80.2793159,chill,mid,solo,Nungambakkam,two hours,
+Chai Waale,restaurant,13.0930201,80.2793527,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sri Saravan Sandwich Shop,restaurant,13.0936496,80.279431,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Guna Bhai Juice Centre,fast_food,13.0937466,80.2794428,casual,low,solo,Nungambakkam,one hour,
+Om Chat,restaurant,13.0943685,80.2794732,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ganesh Cool Bar,fast_food,13.0927046,80.279491,casual,low,solo,Nungambakkam,one hour,
+Sandwich Shop,restaurant,13.0926879,80.2796221,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Hotel Prayag,restaurant,13.0908796,80.2792058,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sri Krishna Provision,convenience,13.0945783,80.2803433,errands,low,family,Nungambakkam,one hour,
+Nirmala Provision,convenience,13.0947927,80.2803738,errands,low,family,Nungambakkam,one hour,
+Vairavel Stores,convenience,13.0951046,80.2800014,errands,low,family,Nungambakkam,one hour,
+Gupta Pan House,cafe,13.0950966,80.2798853,chill,mid,solo,Nungambakkam,two hours,
+Siva Prasad Pure Vegetarian,restaurant,13.0945745,80.2804541,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sri Rajeshwari Departmental Stores,convenience,13.0946218,80.2804608,errands,low,family,Nungambakkam,one hour,
+Krishna Mart,convenience,13.0949911,80.280721,errands,low,family,Nungambakkam,one hour,
+NFR Store,convenience,13.0943739,80.2842613,errands,low,family,Nungambakkam,one hour,
+Archana Tea Stall,cafe,13.0944314,80.2837737,chill,mid,solo,Nungambakkam,two hours,
+Regal Snacks & Fresh Juice,fast_food,13.0982639,80.2801577,casual,low,solo,Nungambakkam,one hour,
+Ganga 3,restaurant,13.0966877,80.2800036,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Bombay Vadapav,restaurant,13.0961055,80.2799579,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+DabeliWala,restaurant,13.0959704,80.2799538,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Raj Snacks,restaurant,13.0951485,80.2802074,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Raj Sree Chats,restaurant,13.0951634,80.2800706,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Roha Wala,restaurant,13.0954499,80.2798947,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Baby Cool Bar,fast_food,13.0951209,80.2804486,casual,low,solo,Nungambakkam,one hour,
+New Raj Provision,convenience,13.0951087,80.2807435,errands,low,family,Nungambakkam,one hour,
+Bismillah Biriyani,restaurant,13.0984553,80.2833342,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sri Vinodkumar Tea & Coffee Center,cafe,13.0927005,80.2826617,chill,mid,solo,Nungambakkam,two hours,
+Sri Nalvar Provision Store,convenience,13.0923417,80.283007,errands,low,family,Nungambakkam,one hour,
+Lakshmi Provision Store,convenience,13.0960869,80.2798635,errands,low,family,Nungambakkam,one hour,
+Sri Krishna Tea and Coffee Centre,cafe,13.0960454,80.2798331,chill,mid,solo,Nungambakkam,two hours,
+"Prince Chat, Fresh Fruit & Juice",restaurant,13.0960626,80.2797296,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Bajrang Provision,convenience,13.0960722,80.2796733,errands,low,family,Nungambakkam,one hour,
+New Nakoda Provision Store,convenience,13.0974165,80.2799297,errands,low,family,Nungambakkam,one hour,
+Sharma Sweets & Chats,fast_food,13.0984756,80.2800053,casual,low,solo,Nungambakkam,one hour,
+Sri Balaji Provision Store,convenience,13.0945951,80.2796197,errands,low,family,Nungambakkam,one hour,
+Lemon Tree,fast_food,13.0948049,80.2796669,casual,low,solo,Nungambakkam,one hour,
+babylon,fast_food,13.0951191,80.2797301,casual,low,solo,Nungambakkam,one hour,
+Surbhi Snacks,fast_food,13.0953471,80.2797886,casual,low,solo,Nungambakkam,one hour,
+Delhi Tandoori Chaap,fast_food,13.0954079,80.2797691,casual,low,solo,Nungambakkam,one hour,
+Murugan Sandwich & Juice,cafe,13.0955906,80.2797992,chill,mid,solo,Nungambakkam,two hours,
+Hot 'N' Spicy,fast_food,13.0956912,80.2798114,casual,low,solo,Nungambakkam,one hour,
+Raju Cool Bar,fast_food,13.0960019,80.2796407,casual,low,solo,Nungambakkam,one hour,
+Poha Wala,fast_food,13.0943957,80.2793417,casual,low,solo,Nungambakkam,one hour,
+Ram Stores,convenience,13.0945634,80.279084,errands,low,family,Nungambakkam,one hour,
+Royal Chats,fast_food,13.0966168,80.279032,casual,low,solo,Nungambakkam,one hour,
+Lakshmi Provision Store,convenience,13.0942438,80.2828907,errands,low,family,Nungambakkam,one hour,
+Tea Stall,cafe,13.0942797,80.282896,chill,mid,solo,Nungambakkam,two hours,
+Regal Snack Bar,cafe,13.0942816,80.2819967,chill,mid,solo,Nungambakkam,two hours,
+B. Sedhramaiya Cool Bar,fast_food,13.094953,80.2816731,casual,low,solo,Nungambakkam,one hour,
+Seena Bhai Chat Centre,fast_food,13.0927546,80.2798663,casual,low,solo,Nungambakkam,one hour,
+Johnson Store,convenience,13.1024344,80.2846562,errands,low,family,Nungambakkam,one hour,
+Ganesh Store,convenience,13.1025597,80.2842207,errands,low,family,Nungambakkam,one hour,
+Gupta Chat House,fast_food,13.0960297,80.2807547,casual,low,solo,Nungambakkam,one hour,
+Shri Mateshawari Provision Store,convenience,13.0960999,80.2807709,errands,low,family,Nungambakkam,one hour,
+Hot Chips,fast_food,13.0982922,80.2804309,casual,low,solo,Nungambakkam,one hour,Explore this exciting spot!
+Sree Krishna Tea Stall,cafe,13.0966321,80.2806248,chill,mid,solo,Nungambakkam,two hours,
+Nirmala Chat Centre,fast_food,13.0983863,80.2810825,casual,low,solo,Nungambakkam,one hour,
+Velmurugan Stores,convenience,13.0984836,80.2811802,errands,low,family,Nungambakkam,one hour,
+Al-Aksar Tiffin Centre,cafe,13.0966857,80.2840689,chill,mid,solo,Nungambakkam,two hours,
+Raj Snack Bar,fast_food,13.0912398,80.2815158,casual,low,solo,Nungambakkam,one hour,
+The National Lodge Tiffin,restaurant,13.090063,80.2815014,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Mani & Son Juice & Chats,fast_food,13.0888445,80.2812974,casual,low,solo,Nungambakkam,one hour,
+Sree Sai Baba Tea Stall,cafe,13.0888215,80.2812927,chill,mid,solo,Nungambakkam,two hours,
+Lamcy Cafe,cafe,13.0887735,80.281508,chill,mid,solo,Nungambakkam,two hours,
+Everest Coffee,cafe,13.0922909,80.2825072,chill,mid,solo,Nungambakkam,two hours,
+Former site of Binny Mills Building,attraction,13.0908999,80.2876055,touristy,low,family,Nungambakkam,full day,
+My Grandma Foods,restaurant,13.089712,80.2811153,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Bombay Snack Bar,fast_food,13.0903923,80.2799208,casual,low,solo,Nungambakkam,one hour,
+Winners Snacks,cafe,13.0924747,80.2807416,chill,mid,solo,Nungambakkam,two hours,
+Ayyappa Juice Paradise,fast_food,13.09259,80.2801777,casual,low,solo,Nungambakkam,one hour,
+Sumangali Cool Bar,fast_food,13.0925927,80.2800866,casual,low,solo,Nungambakkam,one hour,
+Sumangali Chat Center,fast_food,13.0925998,80.2800622,casual,low,solo,Nungambakkam,one hour,
+Habeeba Store,convenience,13.0894835,80.2790006,errands,low,family,Nungambakkam,one hour,
+Kamal Chat House,fast_food,13.0903885,80.2791336,casual,low,solo,Nungambakkam,one hour,
+TecEx India Private Limited,supermarket,13.0077889,80.2210455,errands,low,family,T. Nagar,one hour,
+Namma Veedu Vasanta Bhavan,restaurant,13.0774212,80.2617168,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Paarambariyas,restaurant,12.9860999,80.2619675,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Ratna cafe,restaurant,13.0079506,80.2593989,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Mathsya,restaurant,13.0069358,80.254119,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Cocoa and Crème Rooftop Cafe,cafe,13.0069855,80.2541298,chill,mid,solo,Adyar,two hours,
+Andhra Bhavan,restaurant,13.0809129,80.2698337,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Bombay Snacks Bar,fast_food,13.0810839,80.270267,casual,low,solo,Nungambakkam,one hour,
+Irfan Snack Bar,cafe,13.0822249,80.2779874,chill,mid,solo,Nungambakkam,two hours,
+A1 Fast Food,restaurant,13.0822821,80.278006,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Kuberan Tiffin Center,restaurant,13.0822992,80.2780088,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+KFC,fast_food,13.0835966,80.2703801,casual,low,solo,Nungambakkam,one hour,
+Indian Railway Catering and Tourism Corporation,restaurant,13.0825495,80.275948,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+KFC,fast_food,13.0823112,80.2749621,casual,low,solo,Nungambakkam,one hour,
+Ratna Cafe,restaurant,13.0827001,80.2748964,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Star Biryani,restaurant,13.0823857,80.2748937,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+MCH,restaurant,13.0827747,80.274891,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Vinu's Igloo ice cream shop,fast_food,13.0446108,80.2255869,casual,low,solo,T. Nagar,one hour,
+Te Hut,cafe,13.046838,80.2261541,chill,mid,solo,Nungambakkam,two hours,
+Grace Super market,supermarket,13.0473227,80.2263691,errands,low,family,Nungambakkam,one hour,
+Venkateshwara restaurant,restaurant,13.0517209,80.2302313,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+IRCTC,fast_food,13.0827826,80.275151,casual,low,solo,Nungambakkam,one hour,
+Pope John Paul II,memorial,13.0054087,80.1939606,misc,mid,solo,T. Nagar,one hour,
+Mother Teresa,memorial,13.0053135,80.1939524,misc,mid,solo,T. Nagar,one hour,
+Fourbeck Bridge (Marmalong Brook Bridge) Monument,monument,13.0258864,80.2304012,misc,mid,solo,T. Nagar,one hour,
+Lt. Col. Samuel Dalrymple (Madras Artillery) Cupola,memorial,13.0055545,80.2015429,misc,mid,solo,T. Nagar,one hour,
+The Nation Remembers,monument,13.0456353,80.2574632,misc,mid,solo,T. Nagar,one hour,
+Sri Amritha Coolbar,fast_food,13.1030864,80.2800834,casual,low,solo,Nungambakkam,one hour,
+Nambiyar Tea Stall,cafe,13.1032564,80.2805336,chill,mid,solo,Nungambakkam,two hours,
+S.V.S. Fresh Juice & Chat Center,fast_food,13.1022369,80.2797057,casual,low,solo,Nungambakkam,one hour,
+Hotel Sri Annapoorani Bawan,restaurant,13.102361,80.2798963,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Maria Fast Food,fast_food,13.102751,80.2798889,casual,low,solo,Nungambakkam,one hour,
+Howdy Chennai,fast_food,13.1029879,80.2798961,casual,low,solo,Nungambakkam,one hour,
+Kanishka Kulfi,fast_food,13.1030327,80.2798975,casual,low,solo,Nungambakkam,one hour,
+Star Kitchen,restaurant,13.1015647,80.2825789,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Devi Tea Stall,cafe,13.1011731,80.2867141,chill,mid,solo,Nungambakkam,two hours,
+Cafe Madrassi,cafe,13.1002052,80.2846695,chill,mid,solo,Nungambakkam,two hours,
+New Mughal Biriyani,restaurant,13.1002136,80.2845375,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Sai Ram Hot Chips,fast_food,13.1009472,80.2799238,casual,low,solo,Nungambakkam,one hour,
+Tridev Hot 'N' Cool,restaurant,13.1020525,80.2798533,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ravida Tea and Coffee Tiffin Centre,cafe,13.1030432,80.2842335,chill,mid,solo,Nungambakkam,two hours,
+Delicious Fresh Food & Chats,fast_food,13.1027692,80.2841696,casual,low,solo,Nungambakkam,one hour,
+Dinakaran Juice Centre,fast_food,13.1013345,80.2838452,casual,low,solo,Nungambakkam,one hour,
+Archana Bhavan,restaurant,12.886228,80.1891219,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Nambiar Stores,convenience,13.1014696,80.2830744,errands,low,family,Nungambakkam,one hour,
+Nirmala Tiffen Center,restaurant,13.0977527,80.2842159,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+TeaTrance & Snack Boat,cafe,12.9743802,80.1920173,chill,mid,solo,Adyar,two hours,
+Vegetarian Family Restaurant,restaurant,13.0492981,80.2076279,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Vegetarian Famlily Restaurant,restaurant,13.0492863,80.2076268,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Restauration rapide,fast_food,13.0429774,80.2739518,casual,low,solo,T. Nagar,one hour,
+Bay6 Restobar,restaurant,12.8831941,80.2518739,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Gossip Fusion Bristo,restaurant,12.8672541,80.2433736,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Shri Ramanaas,restaurant,12.9163361,80.1945842,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Rainbow Ice Cream,restaurant,13.0947269,80.2797805,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Gupta pan bhandar,supermarket,13.0944353,80.2795842,errands,low,family,Nungambakkam,one hour,
+Rakshkumar & Co,supermarket,13.0956228,80.279808,errands,low,family,Nungambakkam,one hour,
+Boys Non-veg Mess,restaurant,12.8707963,80.2198742,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Canteen,restaurant,12.8724833,80.2194824,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Boys Non-veg mess,restaurant,12.8724671,80.2186682,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Colonel Dr. Jeppiaar Memorial,memorial,12.873241,80.2213267,misc,mid,solo,Adyar,one hour,
+Basil with a twist,restaurant,13.0496674,80.24228,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Happy Bum Pets,cafe,13.0506072,80.2428243,chill,mid,solo,Nungambakkam,two hours,
+Bombaysthan,restaurant,13.0376928,80.2642431,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Chicking,restaurant,13.0631465,80.2440699,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ponnusamy Hotel,restaurant,13.0609702,80.245495,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Girls mess,restaurant,12.8751022,80.2217535,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Santrupti Fine Dine,restaurant,13.0203079,80.1845758,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+"Mulberry tea, chaat and fruit bar",cafe,13.0508919,80.1992927,chill,mid,solo,Nungambakkam,two hours,
+Sree balajee bhavan,restaurant,13.1240104,80.2014829,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+grace supermarket,supermarket,13.1286953,80.2017243,errands,low,family,Nungambakkam,one hour,
+Aariya bhavan,fast_food,13.1240614,80.2014807,casual,low,solo,Nungambakkam,one hour,
+Ganga sweets,fast_food,13.1282085,80.2016759,casual,low,solo,Nungambakkam,one hour,
+Amma Super Market,supermarket,12.9412022,80.2402905,errands,low,family,Adyar,one hour,
+Adyar Ananda Bhavan,restaurant,12.8736602,80.2264289,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Burger King,fast_food,12.8737663,80.2264394,casual,low,solo,Adyar,one hour,
+Aavin Booth,cafe,13.0813864,80.2626494,chill,mid,solo,Nungambakkam,two hours,
+Buhari Hotel,restaurant,13.079622,80.2243634,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+A2B Food Express,fast_food,13.077526,80.2250607,casual,low,solo,Nungambakkam,one hour,
+Sri Krishna Sweets,fast_food,13.0844004,80.2192283,casual,low,solo,Nungambakkam,one hour,Explore this exciting spot!
+KABAB CORNER,fast_food,13.0601673,80.2546158,casual,low,solo,Nungambakkam,one hour,
+Crafe,cafe,13.0525907,80.2359545,chill,mid,solo,Nungambakkam,two hours,
+The Madras Grand,restaurant,13.075221,80.2560383,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Faruuzi Multicuisine,restaurant,12.9484704,80.1937064,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sangeetha Veg Restaurant,restaurant,12.9484678,80.1936384,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Nellai karupatti coffee,cafe,12.9379082,80.2352156,chill,mid,solo,Adyar,two hours,
+broadlands hotel,restaurant,13.0630503,80.2734469,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+We Chai,cafe,13.0138912,80.1559695,chill,mid,solo,T. Nagar,two hours,
+Nikis SuperMarket,supermarket,13.0148344,80.1532965,errands,low,family,T. Nagar,one hour,
+Paati Veedu,restaurant,13.0477044,80.2390445,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+MR. BURGER,fast_food,12.9146904,80.1921048,casual,low,solo,Adyar,one hour,
+Ibrahim's BBQ House,restaurant,13.0122894,80.2238705,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Jayam Andhra Mess,restaurant,13.0122977,80.2238958,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Hot Chips veg restaurant,restaurant,12.9208368,80.1969513,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Ayyanar Chettinad Restaurant,restaurant,12.9209308,80.1969868,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Arul Chettinad Hotel,restaurant,13.0737596,80.2259631,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Abid's Restaurant,restaurant,13.0716807,80.2504038,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Palimar Hotel,restaurant,13.072631,80.2522631,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Cake Waves,cafe,13.0471842,80.1991697,chill,mid,solo,Nungambakkam,two hours,
+The Grand Sweets & Snacks,restaurant,13.0075596,80.2536416,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Naidu Andhra Mess,restaurant,13.0143188,80.2248506,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Sree Gupta Bhavan,restaurant,12.9876495,80.2180839,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Geetham,restaurant,12.9884101,80.2182575,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Rasavid,restaurant,12.9899176,80.2186763,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Haven Sampoorna,restaurant,12.990245,80.2187592,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Appu Kadai Briyani,restaurant,13.0111645,80.2240893,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Curry Kitchen,restaurant,12.983758,80.1657694,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+BBQ Bro's,restaurant,13.0564212,80.2741982,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Daniel Super Market,supermarket,13.0131367,80.2240167,errands,low,family,T. Nagar,one hour,
+Hotel Ashok Bhavan,restaurant,13.0148042,80.2251186,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Senthil Nadar Stores,convenience,13.0924016,80.2612406,errands,low,family,Nungambakkam,one hour,
+Balaji Batter Shop,convenience,13.0922834,80.2603841,errands,low,family,Nungambakkam,one hour,
+Muthurajan Stores,convenience,13.0923191,80.2603812,errands,low,family,Nungambakkam,one hour,
+Vanga Vanga,supermarket,13.0090742,80.2546834,errands,low,family,Adyar,one hour,
+Azzuri bay,restaurant,13.0113205,80.2539306,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Green Bean,supermarket,13.0096655,80.2539882,errands,low,family,Adyar,one hour,
+Butterheads,restaurant,13.0112709,80.2539592,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Fresh2day,supermarket,13.0097391,80.2519401,errands,low,family,Adyar,one hour,
+Variety rice shop,fast_food,13.0130869,80.2240672,casual,low,solo,T. Nagar,one hour,
+Friends Park,fast_food,12.9962725,80.2678267,casual,low,solo,Adyar,one hour,
+Canadian Pizza,fast_food,12.9280297,80.1993735,casual,low,solo,Adyar,one hour,
+Golden Dragon,restaurant,13.0583978,80.2473021,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Southern Spice,restaurant,13.0582098,80.2470479,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Anise,restaurant,13.0581405,80.247065,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+The Entrance Cafe,cafe,13.0832543,80.2384331,chill,mid,solo,Nungambakkam,two hours,
+AMPHI THEATRE,cinema,13.0191364,80.2663999,entertainment,mid,friends,Adyar,half a day,
+Cosmos,bar,12.9130338,80.1920733,party,high,friends,Adyar,one hour,
+eswaran park,park,13.1316491,80.2622542,relax,free,solo,Nungambakkam,half a day,
+Undu Magizh,restaurant,12.9051211,80.1879357,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Southern Railways Headquarters,yes,13.08255344,80.2771366,misc,mid,solo,Nungambakkam,one hour,
+Arulmigu Parthasarathy Swamy Temple,place_of_worship,13.05394773,80.27636635,misc,mid,solo,Nungambakkam,one hour,
+Chepauk Palace,castle,13.06364759,80.28166669,misc,mid,solo,Nungambakkam,one hour,
+Victory War Memorial,memorial,13.07349573,80.28565534,misc,mid,solo,Nungambakkam,one hour,
+Phoenix Marketcity Chennai,mall,12.99137202,80.21671631,shop,high,friends,Adyar,half a day,
+Jeeva Park,park,13.04405276,80.2376934,relax,free,solo,T. Nagar,half a day,
+Ramakrishna Mission School Ground,park,13.04323069,80.23817686,relax,free,solo,T. Nagar,half a day,
+Somasundaram ground,park,13.04588718,80.2343313,relax,free,solo,Nungambakkam,half a day,
+Independence Day Park,park,13.05642176,80.24219121,relax,free,solo,Nungambakkam,half a day,
+Kotturpuram Park,park,13.02663845,80.24461819,relax,free,solo,T. Nagar,half a day,
+People's Park,park,13.08928824,80.27223028,relax,free,solo,Nungambakkam,half a day,
+Nageswara Rao Park,park,13.03648962,80.26351224,relax,free,solo,T. Nagar,half a day,
+Kalaignar Noorandu Poonga,park,13.05048032,80.25415352,relax,free,solo,Nungambakkam,half a day,
+Bougainvilla Park,park,13.09175557,80.22124564,relax,free,solo,Nungambakkam,half a day,
+Anna Nagar Tower Park,park,13.08664105,80.21425776,relax,free,solo,Nungambakkam,half a day,
+Alphonso Government play ground,park,13.02517656,80.27196918,relax,free,solo,T. Nagar,half a day,
+Haddows Road Park,park,13.06323043,80.2485975,relax,free,solo,Nungambakkam,half a day,
+Guindy National Park,attraction,12.99948091,80.22761322,touristy,low,family,Adyar,full day,
+Independence Day Park,park,12.98118964,80.18588394,relax,free,solo,Adyar,half a day,
+Senmozhi Poonga,attraction,13.0504737,80.25148659,touristy,low,family,Nungambakkam,full day,
+Anna Park,park,13.10769267,80.28850403,relax,free,solo,Nungambakkam,half a day,
+Royapuram,yes,13.10429332,80.29359246,misc,mid,solo,Nungambakkam,one hour,
+MPT Ground,park,13.13999749,80.28989636,relax,free,solo,Nungambakkam,half a day,
+Anna Park,park,13.13834439,80.29328085,relax,free,solo,Nungambakkam,half a day,
+Mehta Nagar Ground,park,13.07030172,80.22753063,relax,free,solo,Nungambakkam,half a day,
+Circular Park,park,13.0520607,80.22552099,relax,free,solo,Nungambakkam,half a day,
+Sector 10 Ground,park,13.04312265,80.1953578,relax,free,solo,Nungambakkam,half a day,
+Gandhinagar Playground,park,13.05644013,80.20770972,relax,free,solo,Nungambakkam,half a day,
+Periyar Ground,park,13.05870377,80.20605936,relax,free,solo,Nungambakkam,half a day,
+Kalaignar Karunanidhi Park,park,13.03009082,80.25187045,relax,free,solo,T. Nagar,half a day,
+MMC Ground,park,13.08702792,80.28281159,relax,free,solo,Nungambakkam,half a day,
+Natesan Park,park,13.03764244,80.23644995,relax,free,solo,T. Nagar,half a day,
+Corporation Ground,park,13.03708001,80.23556287,relax,free,solo,T. Nagar,half a day,
+Park 113,park,13.04780054,80.25067785,relax,free,solo,Nungambakkam,half a day,
+Ispahani Centre,mall,13.05536598,80.24984357,shop,high,friends,Nungambakkam,half a day,
+Chennai Trade Center,attraction,13.01360897,80.19024379,touristy,low,family,T. Nagar,full day,
+Indira Nagar Park,park,12.99855626,80.25249878,relax,free,solo,Adyar,half a day,
+Apex Plaza,mall,13.054683,80.24919375,shop,high,friends,Nungambakkam,half a day,
+Shastri Nagar Ground,park,12.99989123,80.26138495,relax,free,solo,Adyar,half a day,
+Fort Park,park,13.07716997,80.28779842,relax,free,solo,Nungambakkam,half a day,
+Chennai Citi Center Mall,mall,13.0428862,80.2738874,shop,high,friends,T. Nagar,half a day,
+Vindhya Mess,restaurant,12.99045526,80.23507523,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Thiru Vi Ka Park,park,13.07872756,80.22510709,relax,free,solo,Nungambakkam,half a day,
+Crescent Ground,park,13.08161266,80.22037479,relax,free,solo,Nungambakkam,half a day,
+Patel Park,park,13.09623916,80.25294749,relax,free,solo,Nungambakkam,half a day,
+Ramanujalu Park,park,13.09556997,80.25749542,relax,free,solo,Nungambakkam,half a day,
+M.G.R Memorial,park,13.06445814,80.28506608,relax,free,solo,Nungambakkam,half a day,
+Anna Memorial,park,13.06567174,80.28491233,relax,free,solo,Nungambakkam,half a day,
+Public Works Department,building,13.06194554,80.28216292,misc,mid,solo,Nungambakkam,one hour,
+Tholkappiar Ecological Park,park,13.02221481,80.26729655,relax,free,solo,T. Nagar,half a day,
+Jai Nagar Park,park,13.06901385,80.20786476,relax,free,solo,Nungambakkam,half a day,
+Defence Colony Park,park,13.02748165,80.20191282,relax,free,solo,T. Nagar,half a day,
+Corporation Playground,park,13.02829759,80.24178702,relax,free,solo,T. Nagar,half a day,
+Sivan Park,park,13.04170624,80.20495332,relax,free,solo,T. Nagar,half a day,
+Le Meridian,restaurant,13.00663408,80.20559404,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+CORPORATION PARK,park,13.02187446,80.25505613,relax,free,solo,T. Nagar,half a day,
+Senior Citizens Park,park,13.01965812,80.2432012,relax,free,solo,T. Nagar,half a day,
+Periyar Science and Technology Centre,attraction,13.01248645,80.24355304,touristy,low,family,T. Nagar,full day,
+Kart Attack Go Karting,attraction,12.89603194,80.24593792,touristy,low,family,Adyar,full day,
+Annie Besant Park,park,13.0504191,80.28055318,relax,free,solo,Nungambakkam,half a day,
+Corporation Ground,park,13.10907901,80.24282012,relax,free,solo,Nungambakkam,half a day,
+Kotturpuram Tree Park,park,13.02368807,80.24501003,relax,free,solo,T. Nagar,half a day,
+Thiruvalluvar Nagar Park,park,12.97893126,80.26226501,relax,free,solo,Adyar,half a day,
+Chennai Corporation Park,park,12.97013303,80.24703592,relax,free,solo,Adyar,half a day,
+CEG Canteen,restaurant,13.01038207,80.23674355,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Express Avenue Mall,mall,13.05864217,80.26420646,shop,high,friends,Nungambakkam,half a day,
+Sathyam Cinemas,cinema,13.05540307,80.25818869,entertainment,mid,friends,Nungambakkam,half a day,
+VPG Selva Nagar Park,park,12.97137791,80.22328512,relax,free,solo,Adyar,half a day,
+Adyar Ananda Bhavan,restaurant,12.97317612,80.22036757,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Baby Nagar Sports Park,park,12.97910082,80.22906335,relax,free,solo,Adyar,half a day,
+Nathan Subramaniam Colony Park,park,12.96833315,80.2207448,relax,free,solo,Adyar,half a day,
+Mylapore Kapaleeshwarar Temple Tank,monument,13.03342909,80.26865757,misc,mid,solo,T. Nagar,one hour,
+Valluvar Kottam,attraction,13.05426603,80.24177831,touristy,low,family,Nungambakkam,full day,
+Vivekanandar Illam,attraction,13.0495083,80.28033405,touristy,low,family,Nungambakkam,full day,
+Taj Connemara Hotel,yes,13.06277137,80.26134452,misc,mid,solo,Nungambakkam,one hour,
+Bharat Insurance Building,yes,13.06503121,80.26727824,misc,mid,solo,Nungambakkam,one hour,
+Raj Theatre,cinema,13.01962389,80.22330518,entertainment,mid,friends,T. Nagar,half a day,
+Srinivasa Theatre,cinema,13.03102288,80.22472722,entertainment,mid,friends,T. Nagar,half a day,
+Zion Church,place_of_worship,13.07520086,80.27197127,misc,mid,solo,Nungambakkam,one hour,
+Langs Garden Park,park,13.07237831,80.26709668,relax,free,solo,Nungambakkam,half a day,
+"Avin, Snacks and Eateries",cafe,13.08276079,80.2758888,chill,mid,solo,Nungambakkam,two hours,
+Ega,cinema,13.0780607,80.24044706,entertainment,mid,friends,Nungambakkam,half a day,
+Udhayam Theatre,cinema,13.03458805,80.21047758,entertainment,mid,friends,T. Nagar,half a day,
+Jayapradha,cinema,13.06215361,80.26689167,entertainment,mid,friends,Nungambakkam,half a day,
+Maadi Poonga,park,13.10383016,80.28860862,relax,free,solo,Nungambakkam,half a day,
+Saravana,cinema,13.09269925,80.25156166,entertainment,mid,friends,Nungambakkam,half a day,
+Gill Nagar Park,park,13.06405488,80.22471844,relax,free,solo,Nungambakkam,half a day,
+Saravana Bhavan,fast_food,13.05103244,80.21378837,casual,low,solo,Nungambakkam,one hour,
+Chennai Corporation Park,park,13.06916336,80.22272557,relax,free,solo,Nungambakkam,half a day,
+Agasthya Theatre,cinema,13.12442576,80.28964354,entertainment,mid,friends,Nungambakkam,half a day,
+AGS Cinemas,cinema,13.10465888,80.20916044,entertainment,mid,friends,Nungambakkam,half a day,
+Children's Road Safety and Traffic Park,park,13.06747731,80.28471237,relax,free,solo,Nungambakkam,half a day,
+Lakshmi Talkies,cinema,13.07474968,80.22779241,entertainment,mid,friends,Nungambakkam,half a day,
+Sangam Cinemas,cinema,13.0793574,80.24941233,entertainment,mid,friends,Nungambakkam,half a day,
+Nilgris Super Market,supermarket,12.94824862,80.19938672,errands,low,family,Adyar,one hour,
+Rohini Silver Screens,cinema,13.07582693,80.19587074,entertainment,mid,friends,Nungambakkam,half a day,
+Rohini Silver Screens,cinema,13.07586636,80.19583542,entertainment,mid,friends,Nungambakkam,half a day,
+Yesesi Supermarket,supermarket,13.09013747,80.21787762,errands,low,family,Nungambakkam,one hour,
+Pilot Theatre,cinema,13.05067612,80.26360525,entertainment,mid,friends,Nungambakkam,half a day,
+Kamaraj Memorial House,attraction,13.04741502,80.23952227,touristy,low,family,Nungambakkam,full day,
+Star Theatre,cinema,13.06283508,80.27455062,entertainment,mid,friends,Nungambakkam,half a day,
+Rohini Garden Park,park,13.02193595,80.26939824,relax,free,solo,Adyar,half a day,
+Buvaneshvari,cinema,13.09161306,80.25832581,entertainment,mid,friends,Nungambakkam,half a day,
+Murugan Idli Shop,restaurant,12.9825244,80.18820417,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+DATA Udipi Hotel,restaurant,13.02018988,80.22470075,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+SAF Games Village Park,park,13.0646344,80.20831983,relax,free,solo,Nungambakkam,half a day,
+IAS Officers Mess,restaurant,13.0623715,80.20798914,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Santosh Super Stores,supermarket,13.0848536,80.2059791,errands,low,family,Nungambakkam,one hour,
+VGN Blooming Garden Park 2,park,13.01541865,80.15496559,relax,free,solo,T. Nagar,half a day,
+VGN Blooming Garden Park 1,park,13.0153629,80.15311306,relax,free,solo,T. Nagar,half a day,
+VND Avenue Park,park,13.01805003,80.15308044,relax,free,solo,T. Nagar,half a day,
+Chennai Corporation Play ground and Park,park,13.0263236,80.21898189,relax,free,solo,T. Nagar,half a day,
+Hotel Valarmathi,restaurant,13.02232605,80.22013045,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Mari Hotel,restaurant,13.02205231,80.22111262,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Gowri Nivas Hotel,restaurant,13.02222475,80.22317805,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Reliance Fresh,supermarket,13.02451623,80.22160338,errands,low,family,T. Nagar,one hour,
+Gandhi Park,park,13.02151574,80.22097731,relax,free,solo,T. Nagar,half a day,
+Madaipalli,temple,13.02139558,80.22158307,spiritual,free,solo,T. Nagar,weekend trip,
+Sai Baba Temple,place_of_worship,13.037654,80.2218419,misc,mid,solo,T. Nagar,one hour,
+Chennai Corporatin Park,park,13.0305306,80.2158865,relax,free,solo,T. Nagar,half a day,
+Richar Park,park,13.0197572,80.2271559,relax,free,solo,T. Nagar,half a day,
+Nilgiri's,supermarket,13.01636947,80.17839031,errands,low,family,T. Nagar,one hour,
+Deepa Chat,fast_food,12.98076634,80.18819653,casual,low,solo,Adyar,one hour,
+Sugar cane juice & tea,cafe,12.98236417,80.18828201,chill,mid,solo,Adyar,two hours,
+ambika stores,convenience,12.98174395,80.18827156,errands,low,family,Adyar,one hour,
+Amma Unavagam,restaurant,13.10303354,80.20914579,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Thalappakatti,restaurant,13.00273738,80.27242874,romantic,mid,date,Besant Nagar,two hours,Explore this exciting spot!
+Dindigul Thalappakatti,restaurant,13.00752306,80.20698188,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Green Mantra,convenience,12.98177857,80.18910401,errands,low,family,Adyar,one hour,
+Cafe Coffee Day,cafe,13.04703041,80.23653218,chill,mid,solo,Nungambakkam,two hours,
+Chettinad House,castle,13.01572353,80.26923279,misc,mid,solo,Adyar,one hour,
+Subway,fast_food,13.04682789,80.23585482,casual,low,solo,Nungambakkam,one hour,
+Mattas,restaurant,13.03718084,80.21360388,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+KFC,fast_food,12.96795935,80.25746397,casual,low,solo,Adyar,one hour,
+Murugan Idli Shop,restaurant,13.04538495,80.2328621,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+D Cafe,restaurant,13.04679366,80.23527568,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+JK Supermart,supermarket,12.95983297,80.2437227,errands,low,family,Adyar,one hour,
+Shree Mithai,cafe,13.0328717,80.21220383,chill,mid,solo,T. Nagar,two hours,
+Bakya Sargakhet,restaurant,13.03800655,80.22175425,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Nilgiri Mess,restaurant,12.98434494,80.2325138,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+McDonald's,fast_food,13.03165652,80.21118471,casual,low,solo,T. Nagar,one hour,
+Adyar Ananda Bhavan,restaurant,13.0107826,80.13930588,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Pazhamudhir Nilayam,supermarket,13.04890248,80.22705979,errands,low,family,Nungambakkam,one hour,
+Himalayas supermarket,supermarket,12.96563637,80.20500701,errands,low,family,Adyar,one hour,
+GRT School Playground,park,13.0379068,80.21665565,relax,free,solo,T. Nagar,half a day,
+Aarathana Theatre,cinema,12.92995843,80.2520561,entertainment,mid,friends,Adyar,half a day,
+Annachi Kadai,supermarket,13.0648853,80.22182865,errands,low,family,Nungambakkam,one hour,
+Sri Venkateshwara,restaurant,12.96036007,80.24193529,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+More,supermarket,12.93748036,80.20542856,errands,low,family,Adyar,one hour,
+osr,park,13.05331403,80.19096015,relax,free,solo,Nungambakkam,half a day,
+Muthu Super Market,supermarket,13.075826,80.22464072,errands,low,family,Nungambakkam,one hour,
+Pastry Boutique,cafe,13.08488557,80.23465531,chill,mid,solo,Nungambakkam,two hours,
+Five star,restaurant,12.98713004,80.25831281,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Kumaran Theater,cinema,12.97191143,80.19222884,entertainment,mid,friends,Adyar,half a day,
+Saravana Bhavan,fast_food,13.05438775,80.25621632,casual,low,solo,Nungambakkam,one hour,
+Spencer's Food World,supermarket,13.04768927,80.2640996,errands,low,family,Nungambakkam,one hour,
+kirubhai,convenience,12.9606985,80.2010386,errands,low,family,Adyar,one hour,
+Jinove Restaurant,restaurant,12.95936747,80.2442285,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+MNM jain canteen- men,restaurant,12.94594861,80.24665658,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sri Vidhya Bhavan,restaurant,13.03627039,80.22275718,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+PHC Canteen,restaurant,13.03653369,80.22220347,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Ayyanar Hotel,restaurant,12.99686005,80.25912815,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+One MB,restaurant,13.04966931,80.23981218,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ibaco,restaurant,13.04984027,80.24012237,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ampa Skywalk,mall,13.07350464,80.22142902,shop,high,friends,Nungambakkam,half a day,
+Nexus Vijaya Forum Mall,mall,13.05087804,80.20949441,shop,high,friends,Nungambakkam,half a day,
+Amma Unavagam,restaurant,12.97960455,80.18373655,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Amma Canteen,restaurant,13.0723411,80.23134905,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Ration Shop,convenience,13.07240435,80.2306064,errands,low,family,Nungambakkam,one hour,
+Nathamuni Theatre,cinema,13.10318314,80.20231134,entertainment,mid,friends,Nungambakkam,half a day,
+Velammal Store,supermarket,13.06635742,80.21938747,errands,low,family,Nungambakkam,one hour,
+Anandha Bhavan,restaurant,13.05996225,80.27444106,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Akila Cafe,cafe,13.05093605,80.2274232,chill,mid,solo,Nungambakkam,two hours,
+Sri Adhinath jain Temple,place_of_worship,13.02297545,80.22464655,misc,mid,solo,T. Nagar,one hour,
+Peaches,restaurant,12.98964361,80.2190917,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Ibaco,restaurant,12.97677943,80.22235312,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Wangs Kitchen,restaurant,12.97676077,80.22231174,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Central park,park,12.89685769,80.22152544,relax,free,solo,Adyar,half a day,
+Layalee,restaurant,13.02414265,80.2071558,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Eco park,park,13.01284076,80.24311357,relax,free,solo,T. Nagar,half a day,
+Energy park,park,13.01219011,80.24318342,relax,free,solo,T. Nagar,half a day,
+Science Park,park,13.01158317,80.24380537,relax,free,solo,Adyar,half a day,
+Traffic Park,park,13.01157058,80.24309638,relax,free,solo,Adyar,half a day,
+IIT colony park,park,12.93836384,80.20868124,relax,free,solo,Adyar,half a day,
+Children Play area,park,13.00524289,80.23701222,relax,free,solo,Adyar,half a day,
+Indra nagar park,park,12.9280006,80.23328827,relax,free,solo,Adyar,half a day,
+Kaj Schmidt Memorial,monument,12.99942467,80.27211491,misc,mid,solo,Besant Nagar,one hour,
+Modern Art Gallery,museum,12.92253581,80.25149152,cultural,low,solo,Adyar,two hours,
+Pachayappas Ground,park,13.07289977,80.23269887,relax,free,solo,Nungambakkam,half a day,
+Ampa Skywalk,mall,13.0734826,80.22149926,shop,high,friends,Nungambakkam,half a day,
+Asiffe Biriyani,restaurant,12.96063042,80.25575519,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Palavakkam Play Ground,park,12.96306952,80.25993928,relax,free,solo,Adyar,half a day,
+Thiruvanmiyur Park,park,12.97786745,80.26064629,relax,free,solo,Adyar,half a day,
+Government Playground,park,12.98949249,80.25824697,relax,free,solo,Adyar,half a day,
+Government Park,park,13.00173757,80.26612391,relax,free,solo,Adyar,half a day,
+CSIR Canteen,restaurant,12.98729366,80.24510812,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Chettinad Saiva Bhavan,restaurant,13.04480557,80.26112187,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Tea shop,cafe,12.98951905,80.24165459,chill,mid,solo,Adyar,two hours,
+The Rock Restaurant,restaurant,13.0914716,80.21793513,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Children Play Ground,park,13.11532076,80.22860682,relax,free,solo,Nungambakkam,half a day,
+Campus Cafe,cafe,12.99242351,80.23074146,chill,mid,solo,Adyar,two hours,
+Fishing With Chef Jonas,restaurant,12.95900167,80.25605345,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sri Krishna Sweets,restaurant,13.04324073,80.23012689,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Corpora<tion Pa<rk,park,12.96192256,80.23323851,relax,free,solo,Adyar,half a day,
+King park,park,12.98308517,80.19261126,relax,free,solo,Adyar,half a day,
+Chennai Corporation Park & Childrens Play Ground,park,13.04989945,80.19870023,relax,free,solo,Nungambakkam,half a day,
+Sai Nagar Park,park,12.95150896,80.23463182,relax,free,solo,Adyar,half a day,
+ABC Rohini park,park,13.08901268,80.19806214,relax,free,solo,Nungambakkam,half a day,
+anna,park,13.00931959,80.23514851,relax,free,solo,T. Nagar,half a day,
+Total mall,mall,13.04297733,80.23340113,shop,high,friends,T. Nagar,half a day,
+Kammkottai Park,park,12.94146672,80.2126663,relax,free,solo,Adyar,half a day,
+Play area,park,12.94109067,80.2165124,relax,free,solo,Adyar,half a day,
+Park that belongs to Prestige Cyber towers,park,12.91204243,80.22875423,relax,free,solo,Adyar,half a day,
+Food court 2,cafe,12.91055059,80.22259204,chill,mid,solo,Adyar,two hours,
+Food court 1,cafe,12.91023775,80.22237572,chill,mid,solo,Adyar,two hours,
+Lawn near SDB 1,park,12.91052742,80.22183042,relax,free,solo,Adyar,half a day,
+Public park,park,12.90178421,80.23094494,relax,free,solo,Adyar,half a day,
+Kosapet Park,park,13.09296459,80.25661026,relax,free,solo,Nungambakkam,half a day,
+Himalaya Lawns,park,12.98670683,80.23603777,relax,free,solo,Adyar,half a day,
+Nehru Nagar Park,park,12.93196827,80.23000523,relax,free,solo,Adyar,half a day,
+osr,park,13.04881504,80.20569135,relax,free,solo,Nungambakkam,half a day,
+R.B.S.Q school playground,park,12.99665835,80.2663994,relax,free,solo,Adyar,half a day,
+Saravana Bhavan,fast_food,13.02241572,80.20615771,casual,low,solo,T. Nagar,one hour,
+Vidyodaya School Play Ground,park,13.05045905,80.24094372,relax,free,solo,Nungambakkam,half a day,
+Prarthana Drive-In Theater,cinema,12.92998982,80.25259509,entertainment,mid,friends,Adyar,half a day,
+Velachery Railway playground,park,12.96561863,80.21859093,relax,free,solo,Adyar,half a day,
+Thirumalai Nagar Park,park,12.96129233,80.24234397,relax,free,solo,Adyar,half a day,
+Thirunagar Park,park,13.10084893,80.20399464,relax,free,solo,Nungambakkam,half a day,
+Nandanam Metro Park,park,13.02707391,80.24215026,relax,free,solo,T. Nagar,half a day,
+Mayor Sundar Rao Naidu Park,park,13.06510298,80.26065259,relax,free,solo,Nungambakkam,half a day,
+Gandhi park,park,13.09387404,80.19611248,relax,free,solo,Nungambakkam,half a day,
+I block Park,park,13.09378432,80.19972878,relax,free,solo,Nungambakkam,half a day,
+J Block park,park,13.08984927,80.19965013,relax,free,solo,Nungambakkam,half a day,
+Brinley garden park,park,13.08976791,80.20168193,relax,free,solo,Nungambakkam,half a day,
+ICF playground,park,13.09693028,80.2138716,relax,free,solo,Nungambakkam,half a day,
+Sowmya Nagar Park,park,12.90899908,80.19295146,relax,free,solo,Adyar,half a day,
+Rotary Park,park,12.98639781,80.19305248,relax,free,solo,Adyar,half a day,
+Ganga nagar play ground,park,12.96425084,80.18568708,relax,free,solo,Adyar,half a day,
+Sheela nagar park,park,12.96668483,80.2029872,relax,free,solo,Adyar,half a day,
+Corporation Park,park,12.89713593,80.22409068,relax,free,solo,Adyar,half a day,
+Cafe Coffee Day,cafe,12.99130957,80.23424106,chill,mid,solo,Adyar,two hours,
+Jains Park,park,12.95771151,80.24042033,relax,free,solo,Adyar,half a day,
+Hotel Raaj Bhavan,restaurant,13.06420575,80.24330625,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Jeyachandran Mall,mall,12.92134286,80.19756297,shop,high,friends,Adyar,half a day,
+Children Play Area / Park,park,13.00193211,80.2656399,relax,free,solo,Adyar,half a day,
+Government Park,park,13.09066777,80.22498463,relax,free,solo,Nungambakkam,half a day,
+VR Chennai,mall,13.08097703,80.19644904,shop,high,friends,Nungambakkam,half a day,
+Chetpat Eco Park,park,13.07541567,80.2418631,relax,free,solo,Nungambakkam,half a day,
+Saravana Bhavan,fast_food,12.99634461,80.19018601,casual,low,solo,T. Nagar,one hour,
+Cantonment Park,park,12.9709897,80.14867432,relax,free,solo,Adyar,half a day,
+Annapoorna Veg Hotel,restaurant,12.98585738,80.26083743,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+friends snacks,restaurant,12.98453668,80.2616504,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Marudeeswarar Temple,place_of_worship,12.98486888,80.25994196,misc,mid,solo,Adyar,one hour,
+TRIL Central Park,park,12.99149843,80.2478666,relax,free,solo,Adyar,half a day,
+Secretariat Colony Govt Park,park,12.93777395,80.24493323,relax,free,solo,Adyar,half a day,
+Corporation Park,park,12.89762196,80.22242915,relax,free,solo,Adyar,half a day,
+puzhuthivakkam park,park,12.96904623,80.20137439,relax,free,solo,Adyar,half a day,
+Krishnan Park,park,13.04963031,80.19467668,relax,free,solo,Nungambakkam,half a day,
+Garden Area Wipro near CDC 5,park,12.90587308,80.22002463,relax,free,solo,Adyar,half a day,
+Wipro CDC 2 Lawn Area with a Ampitheatre,park,12.9069321,80.22493804,relax,free,solo,Adyar,half a day,
+GOCHS Park,park,12.99678104,80.26755758,relax,free,solo,Adyar,half a day,
+Ampitheatre with Lawn near S4 and S3 towers,park,12.90826879,80.22394949,relax,free,solo,Adyar,half a day,
+Artificial Lawn area inside a building with open roof space,park,12.9085889,80.22571438,relax,free,solo,Adyar,half a day,
+Aadukalam,park,12.90964532,80.22218405,relax,free,solo,Adyar,half a day,
+SDB4 lawn,park,12.90895044,80.22350774,relax,free,solo,Adyar,half a day,
+SDB5 Lawn,park,12.90865948,80.22481619,relax,free,solo,Adyar,half a day,
+Lawn Area,park,12.9067876,80.22554971,relax,free,solo,Adyar,half a day,
+Ramappa Nagar Park,park,12.9637955,80.24269529,relax,free,solo,Adyar,half a day,
+Municipality Park,park,12.97398146,80.21412052,relax,free,solo,Adyar,half a day,
+Medavakkam park,park,12.91768869,80.17932251,relax,free,solo,Adyar,half a day,
+AGS Garden Park,park,13.01974995,80.16154702,relax,free,solo,T. Nagar,half a day,
+Hotel Anandha,restaurant,12.96645908,80.18849397,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Outdoor exercise area,park,12.97825288,80.18625438,relax,free,solo,Adyar,half a day,
+Roadside park,park,12.97767819,80.18732875,relax,free,solo,Adyar,half a day,
+Mascarpone Cafe,restaurant,12.87341116,80.24352185,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Sri Sai Bhavan,restaurant,12.97419379,80.19226291,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Corporation Park cum Playground,park,12.9787702,80.25488642,relax,free,solo,Adyar,half a day,
+Corporation Park,park,12.97838616,80.22104492,relax,free,solo,Adyar,half a day,
+Dr. M. G. Ramachandran Memorial Arch,monument,13.06078105,80.2826629,misc,mid,solo,Nungambakkam,one hour,
+Tamil Nadu Legislative Assembly Diamond Jubilee Arch,monument,13.07161922,80.28518083,misc,mid,solo,Nungambakkam,one hour,
+Ration Shop,convenience,13.03715214,80.19545207,errands,low,family,T. Nagar,one hour,
+Nakshatra Pure Veg,restaurant,12.96467373,80.21209512,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Vivekananda Heritage Museum,museum,13.0494586,80.28032617,cultural,low,solo,Nungambakkam,two hours,
+Vivekananda Park,park,13.04912426,80.28036853,relax,free,solo,Nungambakkam,half a day,
+Jothi Theatre,cinema,13.0061844,80.20140245,entertainment,mid,friends,T. Nagar,half a day,
+PVR Cinemas,cinema,12.86321875,80.24168639,entertainment,mid,friends,Adyar,half a day,
+Chemmancherry Park,park,12.87454328,80.21066229,relax,free,solo,Adyar,half a day,
+Col. Dr. Jeppiaar Memorial,memorial,12.87323804,80.22129472,misc,mid,solo,Adyar,one hour,
+Loane Square,park,13.09098222,80.28539055,relax,free,solo,Nungambakkam,half a day,
+Anderson Church,place_of_worship,13.08897166,80.28850587,misc,mid,solo,Nungambakkam,one hour,
+State Bank of Mysore Building,building,13.08900471,80.28875591,misc,mid,solo,Nungambakkam,one hour,
+Bombay Mutual Insurance Building,building,13.08907916,80.28919842,misc,mid,solo,Nungambakkam,one hour,
+TNSC Building,building,13.08905898,80.28968954,misc,mid,solo,Nungambakkam,one hour,
+Dare House,building,13.08926391,80.29029244,misc,mid,solo,Nungambakkam,one hour,
+Neo Rangavilas Vegetarian Restaurant,restaurant,13.08876187,80.287211,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Smith Stocking & Co,pharmacy,13.08873214,80.2871153,misc,mid,solo,Nungambakkam,one hour,
+National Insurance Buildings,building,13.08883145,80.28660091,misc,mid,solo,Nungambakkam,one hour,
+South India House,building,13.09258009,80.28846083,misc,mid,solo,Nungambakkam,one hour,
+St. Mary's Co-Cathedral,place_of_worship,13.08972077,80.28735427,misc,mid,solo,Nungambakkam,one hour,
+Armenian Church of the Virgin Mary,place_of_worship,13.08919791,80.28732145,misc,mid,solo,Nungambakkam,one hour,
+Himalaya Mess,restaurant,12.98714124,80.23603479,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Zaitoon Restaurant (Quark Building),restaurant,12.98546042,80.23647851,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Cornwallis Cupola,monument,13.08035201,80.28751713,misc,mid,solo,Nungambakkam,one hour,
+Fort St. George Museum,museum,13.08073147,80.28760774,cultural,low,solo,Nungambakkam,two hours,
+Naval Park,park,13.06941662,80.28515074,relax,free,solo,Nungambakkam,half a day,
+New Ramakrishna Lunch Home,restaurant,13.08869701,80.28609932,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Alexander Park,park,13.09993267,80.25539573,relax,free,solo,Nungambakkam,half a day,
+St. Thomas Gate,city_gate,13.07742148,80.28578574,misc,mid,solo,Nungambakkam,one hour,
+Wallajah Gate,city_gate,13.0790043,80.28434847,misc,mid,solo,Nungambakkam,one hour,
+St. George's Gate,city_gate,13.08135195,80.28490834,misc,mid,solo,Nungambakkam,one hour,
+North Gate,city_gate,13.08207994,80.28722385,misc,mid,solo,Nungambakkam,one hour,
+Wake Cup Chai,cafe,13.09370102,80.29156733,chill,mid,solo,Nungambakkam,two hours,
+Hynmers Obelisk,memorial,13.08722777,80.28578074,misc,mid,solo,Nungambakkam,one hour,
+Madras High Court Museum,museum,13.08609412,80.28658733,cultural,low,solo,Nungambakkam,two hours,
+Hotel Zum Zum,restaurant,13.09392721,80.29123309,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Hotel National,restaurant,13.09339011,80.29105365,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Udangudi karupatti kapi,cafe,13.09613795,80.28939827,chill,mid,solo,Nungambakkam,two hours,
+"Tamil Nadu Police Canteen, Pudupet",restaurant,13.06862719,80.26225173,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Albert Theatres,cinema,13.07622307,80.26381856,entertainment,mid,friends,Nungambakkam,half a day,
+Hotel Bright,restaurant,13.0975091,80.29318945,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Turtle Park,park,13.00251639,80.27206088,relax,free,solo,Besant Nagar,half a day,
+Annalakshmi,restaurant,13.07108656,80.25203933,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Governor's Bungalow,manor,12.99740763,80.27154546,misc,mid,solo,Besant Nagar,one hour,
+Egmore Childrens Museum,museum,13.06998324,80.2564218,cultural,low,solo,Nungambakkam,two hours,
+Chennai Government Museum,museum,13.07126627,80.25677925,cultural,low,solo,Nungambakkam,two hours,
+Pully Gate,city_gate,13.10378552,80.28854513,misc,mid,solo,Nungambakkam,one hour,
+Cooum River Fountain,ruins,13.06943995,80.28310903,misc,mid,solo,Nungambakkam,one hour,
+Gandhi Nagar Ground,park,13.01134672,80.25434404,relax,free,solo,Adyar,half a day,
+Spencer Plaza,mall,13.06163693,80.26108207,shop,high,friends,Nungambakkam,half a day,
+Victoria Technical Institute,attraction,13.0605151,80.26052378,touristy,low,family,Nungambakkam,full day,
+Victory Park,park,13.07349566,80.28565099,relax,free,solo,Nungambakkam,half a day,
+Casino Theatre,cinema,13.06869674,80.27013889,entertainment,mid,friends,Nungambakkam,half a day,
+The Mail,building,13.07044099,80.27317411,misc,mid,solo,Nungambakkam,one hour,
+Kasturi Buildings,building,13.07072479,80.27336043,misc,mid,solo,Nungambakkam,one hour,
+Napier Park,park,13.0733362,80.27309606,relax,free,solo,Nungambakkam,half a day,
+Buckingham Canal Green,park,12.98523626,80.25234453,relax,free,solo,Adyar,half a day,
+Warwick's Electric Theatre,building,13.06726404,80.26964963,misc,mid,solo,Nungambakkam,one hour,
+Devi Cineplex,cinema,13.06623954,80.27072878,entertainment,mid,friends,Nungambakkam,half a day,
+Palladium,mall,12.99304528,80.2176997,shop,high,friends,Adyar,half a day,
+Mint Park,park,13.10488976,80.27780165,relax,free,solo,Nungambakkam,half a day,
+Maraimalai Adigal Bridge Monument,monument,13.01886975,80.22461615,misc,mid,solo,T. Nagar,one hour,
+New Broadway Talkies,building,13.100221,80.28715585,misc,mid,solo,Nungambakkam,one hour,
+Amma Museum,museum,13.06453552,80.28585575,cultural,low,solo,Nungambakkam,two hours,
+Dr. Maruthur Gopalan Ramachandran Museum,museum,13.06498798,80.28504212,cultural,low,solo,Nungambakkam,two hours,
+Spencer’s,convenience,13.05175062,80.22735521,errands,low,family,Nungambakkam,one hour,
+Olive's kitchen,restaurant,13.01244633,80.23313186,romantic,mid,date,T. Nagar,two hours,Explore this exciting spot!
+Batcha Theatre,cinema,13.09381167,80.28545059,entertainment,mid,friends,Nungambakkam,half a day,
+Hotel Shree Venkateshwara,restaurant,13.0846473,80.27609873,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Corporation Park,park,13.10314747,80.27358554,relax,free,solo,Nungambakkam,half a day,
+Melmaruvathur Adhiparasakthi Perambur Sakthi Peedam,place_of_worship,13.11305385,80.25830795,misc,mid,solo,Nungambakkam,one hour,
+Sivagnanam Park,park,13.10260099,80.27876593,relax,free,solo,Nungambakkam,half a day,
+Fort St. George,attraction,13.08034038,80.2852514,touristy,low,family,Nungambakkam,full day,
+New Prakash Bhavan Pure Vegetarian,restaurant,13.08892176,80.2808692,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Prime Mart,supermarket,12.98758304,80.23781618,errands,low,family,Adyar,one hour,
+Adityaram Palace,castle,12.89272692,80.24133798,misc,mid,solo,Adyar,one hour,
+Amir Mahal,castle,13.05633139,80.26863611,misc,mid,solo,Nungambakkam,one hour,
+Woodlands Symphony,cinema,13.05659588,80.26508264,entertainment,mid,friends,Nungambakkam,half a day,
+Rajasthani Ground,park,13.09441798,80.27601754,relax,free,solo,Nungambakkam,half a day,
+Seniamman Kovil Arch,monument,13.12527888,80.2876724,misc,mid,solo,Nungambakkam,one hour,
+Cafe Coffee Day,cafe,13.03754659,80.23675639,chill,mid,solo,T. Nagar,two hours,
+Cafe Coffee Day,cafe,13.03729536,80.2362652,chill,mid,solo,T. Nagar,two hours,
+Babuji Memorial Ashram,park,13.01946483,80.17690421,relax,free,solo,T. Nagar,half a day,
+Barathiyar Park,park,12.98298873,80.22184711,relax,free,solo,Adyar,half a day,
+Elegant Pinnacle Park,park,12.87810895,80.21601586,relax,free,solo,Adyar,half a day,
+MNM Jain canteen- women,restaurant,12.94595749,80.24652578,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+MNM Jain -Jain canteen,restaurant,12.94598419,80.24638374,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+MNM jain canteen,restaurant,12.94619392,80.24645817,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+MNM Jain - canteen,restaurant,12.94626431,80.24619,romantic,mid,date,Adyar,two hours,Explore this exciting spot!
+Metropolitan Chennai Corporation Park,park,13.01422158,80.15622211,relax,free,solo,T. Nagar,half a day,
+Kolapakkam Park,park,13.01292128,80.15679251,relax,free,solo,T. Nagar,half a day,
+Canteen,fast_food,12.99596991,80.24656493,casual,low,solo,Adyar,one hour,Explore this exciting spot!
+Bharani Bhavan,restaurant,13.07062703,80.23157928,romantic,mid,date,Nungambakkam,two hours,Explore this exciting spot!
+Amphi Theatre,cinema,13.01914354,80.26640031,entertainment,mid,friends,Adyar,half a day,
+Temple,temple,13.02003183,80.26510125,spiritual,free,solo,Adyar,weekend trip,
+BSR Mall,mall,12.94965318,80.24046385,shop,high,friends,Adyar,half a day,
+DMart,supermarket,12.95604681,80.23708379,errands,low,family,Adyar,one hour,
+Marina Beach,beach,13.0639,80.2834,relax,free,family,T. Nagar,full day,
+Kapaleeshwarar Temple,place_of_worship,13.0334,80.2687,spiritual,free,family,T. Nagar,weekend trip,
+Phoenix MarketCity, mall,13.0146,80.2073,shop,high,friends, T. Nagar,half a day,
+Semmozhi Poonga, park,13.0505,80.2515,relax,free,solo, Nungambakkam,half a day,
+Express Avenue Mall, mall,13.0586,80.2642,shop,high,friends, Nungambakkam,half a day,
+Valluvar Kottam, monument,13.0543,80.2418,cultural,low,solo, Nungambakkam,two hours,
+Birla Planetarium, planetarium,13.012,80.244,educational,mid,solo, Adyar,weekend trip,
+San Thome Basilica, place_of_worship,13.0339,80.278,spiritual,free,solo, T. Nagar,weekend trip,
+Elliots Beach, beach,13.0033,80.2697,relax,free,solo, Besant Nagar,full day,
+Fort St. George, historical,13.0799,80.2887,historical,low,solo, Nungambakkam,full day,
+T Nagar Shopping District, shopping,13.035,80.23,shop,mid,family,T. Nagar,half a day,
+Guindy National Park, park,12.9995,80.2276,nature,low,family, Adyar,full day,
+Arignar Anna Zoological Park, zoo,12.8795,80.0807,touristy,mid,family, Adyar,full day,
+Cholamandal Artists' Village, art_gallery,12.9229,80.2517,cultural,low,solo, Adyar,two hours,
+Queensland Amusement Park, amusement_park,12.9012,80.2275,fun,high,friends, Adyar,full day,
+Connemara Public Library, library,13.0689,80.2673,quiet,free,solo, Nungambakkam,weekend trip,
+Government Museum, museum,13.0689,80.2674,cultural,low,solo, Nungambakkam,full day,
+Parthasarathy Temple, place_of_worship,13.0539,80.2764,spiritual,free,solo, Nungambakkam,weekend trip,
+Vivekananda House, museum,13.0495,80.2803,historical,low,solo, Nungambakkam,weekend trip,
+Thousand Lights Mosque, place_of_worship,13.0625,80.26,spiritual,free,solo, Nungambakkam,weekend trip,
+Mayajaal Multiplex, cinema,12.83,80.223,entertainment,mid,friends, Adyar,half a day,
+Taramani Barista, cafe,12.978,80.24,chill,mid,solo, Adyar,two hours,
+Amethyst Cafe, cafe,13.0573,80.2598,chill,mid,solo, Nungambakkam,one hour,
+Besant Nagar Beach Cafe, cafe,13.0025,80.27,chill,mid,solo, Besant Nagar,full day,
+Murugan Idli Shop (Besant Nagar), restaurant,13.002,80.2695,casual,low,solo, Besant Nagar,two hours,
+Bombay Brasserie, restaurant,13.06,80.247,romantic,high,date, Nungambakkam,two hours,
+Copper Chimney, restaurant,13.0459,80.2582,romantic,high,date, T. Nagar,two hours,
+Tuscana on Chamiers, restaurant,13.03,80.25,romantic,high,date, T. Nagar,two hours,
+Zaras The Gastropub, pub,13.0457,80.2589,fun,high,friends, T. Nagar,half a day,
+Pasha The Pub, pub,13.06,80.24,party,high,friends, Nungambakkam,one hour,
+10 Downing Street, pub,13.055,80.25,fun,mid,friends, Nungambakkam,half a day,
+Big Bazaar (T Nagar), supermarket,13.035,80.23,errands,low,family, T. Nagar,one hour,
+Spencers Plaza, mall,13.06,80.25,shop,high,friends, Nungambakkam,half a day,
+Anna Centenary Library, library,13.01,80.23,quiet,free,solo, Adyar,weekend trip,
+Kalakshetra Foundation, cultural_center,12.99,80.27,cultural,low,solo, Adyar,two hours,
+Chennai Rail Museum, museum,13.1004,80.2087,educational,low,family, Nungambakkam,weekend trip,
+VGP Golden Beach, amusement_park,12.82,80.25,fun,high,family, Adyar,full day,Explore this exciting spot!
+Kollywood Film City, attraction,12.85,80.22,touristy,mid,friends, Adyar,full day,
+Loyola College Grounds, park,13.065,80.25,relax,free,solo, Nungambakkam,half a day,
+Madras Boat Club, sports,13.04,80.27,active,mid,friends, T. Nagar,full day,
+Chettinad Palace, historical,13.04,80.26,historical,low,solo, T. Nagar,full day,
+Valluvar Kottam, monument,13.0543,80.2418,cultural,free,solo, Nungambakkam,full day,
+May Day Park, park,13.0735,80.2732,relax,free,solo, Nungambakkam,half a day,
+Periyar Science Park, park,13.0125,80.2436,educational,low,family, Adyar,weekend trip,
+Children's Park (Guindy), park,13.0,80.23,relax,free,family, Adyar,half a day,
+Kodambakkam Railway Station, landmark,13.05,80.22,misc,free,solo, Nungambakkam,one hour,
+Egmore Museum Theatre, theater,13.0689,80.2675,cultural,mid,friends, Nungambakkam,two hours,
+Music Academy, cultural_center,13.06,80.26,cultural,mid,solo, Nungambakkam,two hours,
+Bharatiya Vidya Bhavan, cultural_center,13.04,80.25,cultural,free,solo, T. Nagar,weekend trip,
+Chandra Mall, mall,13.07,80.2,shop,mid,friends, Nungambakkam,half a day,
+Chennai Trade Centre, convention_center,13.0136,80.1902,business,free,solo, T. Nagar,one hour,
+Anna Nagar Tower Park, park,13.0866,80.2143,relax,free,solo, Nungambakkam,half a day,
+Kotturpuram Tree Park, park,13.0237,80.245,relax,free,friends,T. Nagar,half a day,
+Thiruvanmiyur Beach, beach,12.98,80.26,relax,free,solo, Adyar,full day,
+Neelangarai Beach, beach,12.95,80.26,relax,free,solo,Adyar,full day,
+Broken Bridge, landmark,13.002,80.268,scenic,free,solo, Besant Nagar,full day,
+Kottivakkam Beach, beach,12.96,80.26,relax,free,solo, Adyar,full day,
+Palavakkam Beach, beach,12.94,80.26,relax,free,solo, Adyar,full day,
+Thiruvalluvar Statue (Marina), monument,13.0639,80.2834,cultural,free,solo, T. Nagar,two hours,
+Gandhi Statue (Marina), monument,13.0639,80.2834,historical,free,solo, T. Nagar,full day,
+War Memorial (Marina), monument,13.0639,80.2834,historical,free,solo, T. Nagar,weekend trip,
+Vivekanandar Illam, museum,13.0495,80.2803,historical,low,solo, Nungambakkam,weekend trip,
+Birla Mandir, place_of_worship,13.01,80.27,spiritual,free,solo, Adyar,weekend trip,
+ISKCON Temple, place_of_worship,13.02,80.19,spiritual,free,solo, T. Nagar,weekend trip,
+Parthasarathy Temple Tank, water_body,13.0539,80.2764,scenic,free,solo, Nungambakkam,full day,
+Adyar Poonga, park,13.01,80.25,nature,low,family, Adyar,weekend trip,
+Kasturba Nagar Beach, beach,12.99,80.27,relax,free,solo, Adyar,full day,
+Kovalam Beach, beach,12.79,80.25,relax,free,solo, Adyar,full day,
+Mahabalipuram (Day Trip), historical,12.62,80.19,historical,mid,family, Adyar,full day,
+Cholamandalam Artists' Village, art_gallery,12.9229,80.2517,artistic,low,solo, Adyar,two hours,
+ Kalakshetra Craft Centre, art_gallery,12.99,80.27,artistic,low,solo, Adyar,two hours,
+DakshinaChitra (Day Trip), cultural_center,12.82,80.25,cultural,mid,family,Adyar,weekend trip,
+Taramani MRTS Station, landmark,12.98,80.24,misc,free,solo, Adyar,one hour,
+74. Velachery Lake, water_body,12.98,80.22,scenic,free,solo, Adyar,full day,
+Perungudi Lake, water_body,12.97,80.24,scenic,free,solo, Adyar,full day,
+Pallikaranai Marshland, nature_reserve,12.94,80.21,nature,free,solo, Adyar,full day,
+Guindy Snake Park, zoo,13.0033,80.2385,educational,low,family, Adyar,weekend trip,
+Chennai Crocodile Bank, zoo,12.82,80.25,educational,mid,family, Adyar,weekend trip,
+Arignar Anna Zoological Park, zoo,12.8795,80.0807,educational,mid,family,Adyar,weekend trip,
+80. Vandalur Zoo, zoo,12.89,80.08,educational,mid,family, Adyar,weekend trip,
+Taramani Golf Links, sports,12.98,80.24,active,high,friends, Adyar,full day,
+Cosmopolitan Club, sports,13.04,80.25,active,high,friends, T. Nagar,one hour,
+Gymkhana Club, sports,13.06,80.26,active,high,friends, Nungambakkam,one hour,
+Boat House (Anna Nagar), water_sports,13.09,80.21,fun,mid,friends, Nungambakkam,full day,
+Kishkintha (Anna Nagar), amusement_park,13.09,80.21,fun,mid,family, Nungambakkam,full day,
+Dash N Splash, water_park,13.09,80.21,fun,high,friends, Nungambakkam,full day,
+Escape Cinemas, cinema,13.0587,80.2638,entertainment,mid,friends, Nungambakkam,half a day,
+Sathyam Cinemas, cinema,13.0554,80.2582,entertainment,mid,friends, Nungambakkam,half a day,
+Inox (Express Avenue), cinema,13.0586,80.2642,entertainment,mid,friends,Nungambakkam,half a day,
+PVR Grand Galada, cinema,12.9786,80.1617,entertainment,mid,friends, Adyar,half a day,
+AGS Cinemas (Villivakkam), cinema,13.1047,80.2092,entertainment,mid,friends, Nungambakkam,half a day,
+Luxe Cinemas (Phoenix), cinema,13.0146,80.2073,entertainment,high,friends, T. Nagar,half a day,
+Devi Cineplex, cinema,13.05,80.25,entertainment,mid,friends, Nungambakkam,half a day,
+Rohini Silver Screens, cinema,13.0758,80.1958,entertainment,mid,friends, Nungambakkam,half a day,
+Albert Theater, theater,13.06,80.26,cultural,mid,friends, Nungambakkam,two hours,
+Cholamandal Artists' Village, art_gallery,12.9229,80.2517,artistic,low,solo, Adyar,two hours,
+National Art Gallery, museum,13.0689,80.2674,artistic,low,solo, Nungambakkam,two hours,
+Fort Museum, museum,13.0799,80.2887,historical,low,solo, Nungambakkam,weekend trip,
+Rail Museum, museum,13.1004,80.2087,educational,low,family, Nungambakkam,weekend trip,
+Luz Church, place_of_worship,13.04,80.25,historical,free,solo, T. Nagar,weekend trip,
+St. Mary's Church, place_of_worship,13.0799,80.2887,historical,free,solo, Nungambakkam,weekend trip,
+San Thome Basilica, place_of_worship,13.0339,80.278,historical,free,solo, T. Nagar,weekend trip,
+Kapaleeshwarar Temple, place_of_worship,13.0334,80.2687,spiritual,free,solo, T. Nagar,weekend trip,
+Parthasarathy Temple, place_of_worship,13.0539,80.2764,spiritual,free,solo, Nungambakkam,weekend trip,
+Victory War Memorial, monument,13.0735,80.2857,historical,free,solo, Nungambakkam,weekend trip,
+Anna Memorial, monument,13.0657,80.2849,historical,free,solo, Nungambakkam,full day,
+Thiruvalluvar Statue, monument,13.0639,80.2834,cultural,free,solo, T. Nagar,full day,
+Marina Beach, beach,13.0639,80.2834,scenic,free,solo, T. Nagar,full day,
+Elliots Beach, beach,13.0033,80.2697,scenic,free,solo,Besant Nagar,full day,
+Thiruvanmiyur Beach, beach,12.98,80.26,scenic,free,solo,Adyar,full day,
+Neelangarai Beach, beach,12.95,80.26,scenic,free,solo, Adyar,full day,
+Adyar River, water_body,13.01,80.25,scenic,free,solo, Adyar,full day,
+Cooum River, water_body,13.06,80.27,scenic,free,solo, Nungambakkam,full day,
+Buckingham Canal, water_body,13.07,80.28,scenic,free,solo, Nungambakkam,full day,
+Semmozhi Poonga, park,13.0505,80.2515,nature,free,solo, Nungambakkam,half a day,
+Anna Nagar Tower Park, park,13.0866,80.2143,nature,free,solo, Nungambakkam,half a day,
+Kotturpuram Tree Park, park,13.0237,80.245,nature,free,solo, T. Nagar,half a day,
+May Day Park, park,13.0735,80.2732,nature,free,solo, Nungambakkam,half a day,
+Periyar Science Park, park,13.0125,80.2436,educational,low,family, Adyar,weekend trip,
+Children's Park (Guindy), park,13.0,80.23,nature,free,family, Adyar,half a day,
+Chennai Citi Centre, mall,13.0429,80.2739,shop,high,friends, T. Nagar,half a day,
+Grand Mall, mall,13.05,80.25,shop,high,friends, Nungambakkam,half a day,
+Ampa Skywalk, mall,13.0735,80.2214,shop,high,friends, Nungambakkam,half a day,
+Forum Vijaya Mall, mall,13.0509,80.2095,shop,high,friends, Nungambakkam,half a day,
+T Nagar Shopping District, shopping,13.035,80.23,shop,mid,friends, T. Nagar,half a day,
+Pondy Bazaar, shopping,13.04,80.24,shop,mid,friends, T. Nagar,half a day,
+Ranganathan Street, shopping,13.035,80.23,shop,mid,friends, T. Nagar,half a day,
+Panagal Park, park,13.041,80.2333,relax,free,solo, T. Nagar,half a day,
+Gemini Flyover, landmark,13.05,80.25,misc,free,solo, Nungambakkam,one hour,
+Kathipara Junction, landmark,13.02,80.2,misc,free,solo, T. Nagar,one hour,
+Koyambedu Bus Terminus, landmark,13.07,80.19,misc,free,solo, Nungambakkam,one hour,
+Chennai Central Station, landmark,13.0826,80.2757,historical,free,solo, Nungambakkam,full day,
+Egmore Railway Station, landmark,13.08,80.26,historical,free,solo, Nungambakkam,full day,
+Chennai Airport, landmark,12.99,80.17,busy,free,solo, Adyar,one hour,
+Madras High Court, landmark,13.086,80.288,historical,free,solo, Nungambakkam,full day,
+Secretariat Building, landmark,13.082,80.289,historical,free,solo, Nungambakkam,full day,
+Ripon Building, landmark,13.082,80.28,historical,free,solo, Nungambakkam,full day,
+Senate House (University of Madras), landmark,13.065,80.28,historical,free,solo, Nungambakkam,full day,
+Marina Beach,beach,13.0639,80.2834,relax,free,friends,Triplicane,nan,

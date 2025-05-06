@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ask With Chitti 🤖</title>
+    <style>
+        #bgVideo {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            object-fit: cover;
+            z-index: -1;
+            opacity: 0.9;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: transparent;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 60px 20px;
+            color: #333;
+        }
+
+        .logo-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.logo-container img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
+        h2 {
+            color: #d81b60;
+            font-size: 3em;
+            margin-bottom: 30px;
+        }
+
+        .chat-container {
+            background: rgba(255, 255, 255, 0.3);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-radius: 25px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+            width: 95%;
+            max-width: 750px;
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            font-size: 1.3em;
+            overflow-y: auto;
+            max-height: 70vh;
+        }
+
+        .message {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+        }
+
+        .message.bot .bubble {
+            background: #ffe4ec;
+            color: #d81b60;
+        }
+
+        .message.user {
+            flex-direction: row-reverse;
+        }
+
+        .message.user .bubble {
+            background: #f0f0f0;
+            color: #444;
+        }
+
+        .avatar img {
+            width: 60px;
+            height: auto;
+            object-fit: contain;
+            box-shadow: 0 0 8px rgba(216, 27, 96, 0.2);
+        }
+
+        .bubble {
+            padding: 16px 20px;
+            border-radius: 22px;
+            max-width: 75%;
+            font-size: 1.2em;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+        }
+
+        .options-box {
+            margin-top: 20px;
+            max-width: 750px;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .progress-wrapper {
+            width: 100%;
+            height: 10px;
+            background-color: #f3f3f3;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-bottom: 25px;
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+        }
+
+        .progress-bar {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(to right, #ff6ec4, #7873f5);
+            transition: width 0.5s ease;
+        }
+
+        .input-wrapper {
+            display: flex;
+            gap: 10px;
+            width: 100%;
+        }
+
+        .input-wrapper input,
+        .input-wrapper select {
+            flex: 1;
+            padding: 10px 15px;
+            font-size: 1em;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+        }
+
+        .input-wrapper button {
+            padding: 10px 18px;
+            background-color: #d81b60;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+
+        .input-wrapper button:hover {
+            background-color: #b3164e;
+        }
+
+        .option-button {
+            background-color: #d81b60;
+            color: white;
+            border: none;
+            padding: 10px 18px;
+            border-radius: 10px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .option-button:hover {
+            background-color: #b3164e;
+        }
+
+        /* NEW: Back to Home button */
+        .back-home {
+    position: fixed;
+    bottom: 20px; /* changed from bottom to top */
+    right: 20px;
+    background-color: #d81b60;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 12px;
+    font-size: 1em;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+
+        .back-home:hover {
+            background-color: #b3164e;
+        }
+    </style>
+</head>
+<body>
+
+<video autoplay muted loop id="bgVideo">
+    <source src="{{ url_for('static', filename='videos/intro.mp4') }}" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<div class="logo-container">
+    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" class="logo">
+  </div>
+  
+
+<h2>Talk to Roameo 💬</h2>
+
+<div class="progress-wrapper">
+    <div class="progress-bar" id="progressBar"></div>
+</div>
+
+<div class="chat-container" id="chat"></div>
+<div class="options-box" id="optionsBox"></div>
+
+<!-- Back to Home Button -->
+<button class="back-home" onclick="window.location.href='/'">Back to Home</button>
+
+
+<script>
+    const chat = document.getElementById("chat");
+    const optionsBox = document.getElementById("optionsBox");
+    const progressBar = document.getElementById("progressBar");
+
+    const questions = [
+        { key: "name", question: "Hey there! What's your name?", type: "text" },
+        { key: "mood", question: "What mood are you in today? 🎈", type: "select", options: ['active', 'artistic', 'business', 'busy', 'casual', 'chill', 'cultural', 'educational', 'entertainment', 'errands', 'fun', 'historical', 'misc', 'nature', 'party', 'quiet', 'relax', 'romantic', 'scenic', 'shop', 'spiritual', 'touristy'] },
+        { key: "time", question: "How much time do you have for the outing? ⏳", type: "select", options: ['full day', 'half a day', 'one hour', 'two hours', 'weekend trip'] },
+        { key: "budget", question: "What’s your budget like? 💸", type: "select", options: ['free', 'low', 'mid', 'high'] },
+        { key: "companion", question: "Who are you going with? 👯", type: "select", options: ['solo', 'friends', 'family', 'date'] }
+    ];
+
+    let currentQuestion = 0;
+    let progress = 0;
+    let userName = "";
+    const answers = {};
+
+    window.onload = () => {
+        setTimeout(() => {
+            showBotMessage("Hey there! What's your name?");
+            showInputField("name", submitName);
+        }, 1000);
+    };
+
+    function showBotMessage(msg) {
+        chat.innerHTML += `
+            <div class="message bot">
+                <div class="avatar">
+                    <img src="{{ url_for('static', filename='images/roameo.png') }}" alt="Roameo Avatar">
+                </div>
+                <div class="bubble">${msg}</div>
+            </div>
+        `;
+        scrollToBottom();
+    }
+
+    function showUserMessage(msg) {
+        chat.innerHTML += `
+            <div class="message user">
+                <div class="avatar">
+                    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712130.png" alt="User Avatar">
+                </div>
+                <div class="bubble">${msg}</div>
+            </div>
+        `;
+        scrollToBottom();
+    }
+
+    function showInputField(id, callback) {
+        const q = questions[currentQuestion];
+
+        if (q.type === "text") {
+            optionsBox.innerHTML = `
+                <div class="input-wrapper">
+                    <input type="text" id="${id}Input" placeholder="Type your answer...">
+                    <button onclick="${callback.name}()">Submit</button>
+                </div>
+            `;
+        } else if (q.key === "mood") {
+            const options = q.options.map(opt => `<option value="${opt}">${opt.charAt(0).toUpperCase() + opt.slice(1)}</option>`).join('');
+            optionsBox.innerHTML = `
+                <div class="input-wrapper">
+                    <select id="${id}Select">
+                        <option value="">-- Choose your mood --</option>
+                        ${options}
+                    </select>
+                    <button onclick="submitMood()">Submit</button>
+                </div>
+            `;
+        } else {
+            const options = q.options.map(option => `
+                <button class="option-button" onclick="handleOptionClick('${option}')">${option}</button>
+            `).join('');
+            optionsBox.innerHTML = options;
+        }
+        scrollToBottom();
+    }
+
+    function submitName() {
+        const input = document.getElementById("nameInput");
+        const name = input.value.trim();
+        
+        const nameRegex = /^[A-Za-z\s]+$/;
+        
+        if (name && nameRegex.test(name)) {
+            userName = name;
+            showUserMessage(name);
+            optionsBox.innerHTML = "";
+            setTimeout(() => {
+                showBotMessage(`Nice to meet you, ${userName}! Let's plan your outing. 🤗`);
+                setTimeout(() => {
+                    currentQuestion++;
+                    askQuestion();
+                }, 1000);
+            }, 500);
+        } else {
+            showBotMessage("Oops! Please enter a valid name (letters and spaces only).");
+        }
+    }
+
+    function submitMood() {
+        const select = document.getElementById("moodSelect");
+        const mood = select.value;
+        if (mood) {
+            showUserMessage(mood);
+            answers["mood"] = mood;
+            optionsBox.innerHTML = "";
+            updateProgress();
+            currentQuestion++;
+            setTimeout(() => askQuestion(), 600);
+        }
+    }
+
+    function askQuestion() {
+        if (currentQuestion < questions.length) {
+            const q = questions[currentQuestion];
+            showBotMessage(q.question);
+            if (q.type === "text") {
+                showInputField(q.key, submitName);
+            } else {
+                showInputField(q.key);
+            }
+        } else {
+            showBotMessage("Awesome! Preparing your personalized itinerary 🗺️...");
+            optionsBox.innerHTML = "";
+            setTimeout(() => submitFormData(), 1000);
+        }
+    }
+
+    function handleOptionClick(option) {
+        const key = questions[currentQuestion].key;
+        showUserMessage(option);
+        answers[key] = option;
+        optionsBox.innerHTML = "";
+        updateProgress();
+        currentQuestion++;
+        setTimeout(() => askQuestion(), 600);
+    }
+
+    function updateProgress() {
+        progress += 25;
+        progressBar.style.width = progress + "%";
+    }
+
+    function scrollToBottom() {
+        chat.scrollTop = chat.scrollHeight;
+    }
+
+    function submitFormData() {
+        const form = document.createElement("form");
+        form.method = "POST";
+        form.action = "/get-itinerary";
+
+        for (const [key, value] of Object.entries(answers)) {
+            const input = document.createElement("input");
+            input.type = "hidden";
+            input.name = key;
+            input.value = value;
+            form.appendChild(input);
+        }
+
+        document.body.appendChild(form);
+        form.submit();
+    }
+</script>
+
+</body>
+</html>

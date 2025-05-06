@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Planopia</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    /* Background video */
+    #bg-video {
+      position: fixed;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      min-height: 100%;
+      object-fit: cover;
+      z-index: -2;
+    }
+    .intro-section {
+  margin-top: -30px; /* Move it up, but not too much */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px; /* Add spacing between heading and avatar */
+}
+.heading-tagline {
+  position: relative;
+  top: -80px; /* Adjust this value to move it higher or lower */
+  text-align: center;
+}
+
+.intro-section h1 {
+  margin-bottom: 10px;
+}
+.intro-text {
+  position: absolute;
+  top: 60px; /* Pushes heading and tagline upward */
+  text-align: center;
+}
+
+.intro-text h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+.logo-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.logo-container img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+
+    /* Dark overlay */
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.4);
+      z-index: -1;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 25px;
+      height: 100vh;
+      padding: 30px;
+      text-align: center;
+      color: white;
+    }
+
+    h1 {
+      font-size: 2.8rem;
+    }
+
+    .highlight {
+      color: #ffeb3b;
+    }
+
+    .tagline {
+      font-size: 1.2rem;
+      color: rgba(255, 255, 255, 0.85);
+      font-style: italic;
+      letter-spacing: 0.5px;
+      margin-top: -10px;
+    }
+
+    .avatar-bubble-row {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .robot {
+      position: relative;
+      animation: float 3s ease-in-out infinite;
+    }
+
+    .head {
+      width: 150px;
+      height: 130px;
+      background: #cce7ff;
+      border-radius: 30px;
+      border: 4px solid #5f9ea0;
+      position: relative;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    }
+
+    .antenna-left, .antenna-right {
+      width: 6px;
+      height: 30px;
+      background: #5f9ea0;
+      position: absolute;
+      top: -35px;
+      border-radius: 10px;
+      box-shadow: 0 -2px 8px rgba(0,0,0,0.2);
+    }
+
+    .antenna-left { left: 50px; }
+    .antenna-right { right: 50px; }
+
+    .eyes {
+      position: absolute;
+      top: 35px;
+      width: 100%;
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+    }
+
+    .eye {
+      width: 30px;
+      height: 30px;
+      background: #00bcd4;
+      border: 2px solid #ffffff;
+      border-radius: 50%;
+      animation: blink 4s infinite, pulseGlow 2s infinite;
+      box-shadow: 0 0 12px #00bcd4;
+    }
+
+    .mouth {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 50px;
+      height: 10px;
+      background: #5f9ea0;
+      border-radius: 10px;
+    }
+
+    .speech-bubble {
+      background: #ffe4ec;
+      border-radius: 20px;
+      padding: 15px 25px;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+      font-size: 18px;
+      color: #333;
+      max-width: 300px;
+      position: relative;
+    }
+
+    .speech-bubble::before {
+      content: "";
+      position: absolute;
+      left: -20px;
+      top: 30px;
+      width: 0;
+      height: 0;
+      border: 10px solid transparent;
+      border-right-color: #ffe4ec;
+    }
+
+    .start-btn {
+      margin-top: 10px;
+      padding: 14px 30px;
+      font-size: 1.2rem;
+      background: #d81b60;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      text-decoration: none;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      transition: background 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .start-btn::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -75%;
+      width: 50%;
+      height: 100%;
+      background: linear-gradient(120deg, rgba(255,255,255,0.4), rgba(255,255,255,0));
+      transform: skewX(-20deg);
+      transition: left 0.75s;
+    }
+
+    .start-btn:hover::after {
+      left: 130%;
+    }
+
+    .floating-icons {
+      font-size: 1.5rem;
+      opacity: 0.8;
+      animation: floatIcons 6s infinite ease-in-out;
+    }
+
+    @keyframes blink {
+      0%, 90%, 100% { transform: scaleY(1); }
+      95% { transform: scaleY(0.1); }
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+    }
+
+    @keyframes floatIcons {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+
+    @keyframes pulseGlow {
+      0%, 100% {
+        box-shadow: 0 0 12px #00bcd4;
+      }
+      50% {
+        box-shadow: 0 0 20px #00bcd4;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 🔹 Background Video -->
+  <video autoplay muted loop id="bg-video">
+    <source src="{{ url_for('static', filename='videos/intro.mp4') }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div class="logo-container">
+    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" class="logo">
+  </div>
+  
+
+  <!-- 🔹 Overlay -->
+  <div class="overlay"></div>
+
+  <!-- 🔹 Main Content -->
+  <div class="container">
+    <div class="intro-section">
+      <div class="heading-tagline">
+        <h1>Welcome to <span class="highlight">Roameo</span> 🌍</h1>
+        <p class="tagline">Plan less, roam more✨</p>
+      </div>
+    
+    <div class="avatar-bubble-row">
+      <div class="robot">
+        <div class="antenna-left"></div>
+        <div class="antenna-right"></div>
+        <div class="head">
+          <div class="eyes">
+            <div class="eye"></div>
+            <div class="eye"></div>
+          </div>
+          <div class="mouth"></div>
+        </div>
+      </div>
+      <div class="speech-bubble">
+        <p id="roameoText"></p>
+      </div>
+    </div>
+    </div>
+    <!-- Updated button link -->
+    <a href="{{ url_for('questions') }}" class="start-btn">Start Planning ✈️</a>
+
+
+    <div class="floating-icons">✈️ 🧳 📍 
+      🗺️  🎒</div>
+  </div>
+
+  <!-- 🔹 Confetti + Typing Effect -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <script>
+    const text = "Hello, I’m Roameo! Ready to explore Planopia with you 🚀";
+    let i = 0;
+
+    function typeEffect() {
+      if (i < text.length) {
+        document.getElementById("roameoText").innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typeEffect, 40);
+      }
+    }
+
+    window.onload = function () {
+      confetti({
+        particleCount: 150,
+        spread: 70,
+        origin: { y: 0.6 }
+      });
+      typeEffect();
+    };
+  </script>
+
+</body>
+</html>
